@@ -1,0 +1,66 @@
+name: Flat
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+  schedule:
+    - cron: '*/30 * * * *'
+
+jobs:
+  scheduled:
+    runs-on: macos-latest
+    steps:
+
+      - name: Setup deno
+        uses: denoland/setup-deno@main
+        with:
+          deno-version: v1.x
+
+      - name: Check out repo
+        uses: actions/checkout@v2
+
+      #
+      # macOS Software Update catalog files
+      #
+      - name: Fetch macOS 11 sucatalog
+        uses: githubocto/flat@v2
+        with:
+          http_url: https://swscan.apple.com/content/catalogs/others/index-10.16-10.15-10.14-10.13-10.12-10.11-10.10-10.9-mountainlion-lion-snowleopard-leopard.merged-1.sucatalog.gz
+          downloaded_filename: ./swscan.apple.com/content/catalogs/others/index-10.16-10.15-10.14-10.13-10.12-10.11-10.10-10.9-mountainlion-lion-snowleopard-leopard.merged-1.sucatalog.gz
+          postprocess: ./postprocessing/postprocess-catalog-gz.js
+
+      - name: Fetch macOS 10.15 sucatalog
+        uses: githubocto/flat@v2
+        with:
+          http_url: https://swscan.apple.com/content/catalogs/others/index-10.15-10.14-10.13-10.12-10.11-10.10-10.9-mountainlion-lion-snowleopard-leopard.merged-1.sucatalog.gz
+          downloaded_filename: ./swscan.apple.com/content/catalogs/others/index-10.15-10.14-10.13-10.12-10.11-10.10-10.9-mountainlion-lion-snowleopard-leopard.merged-1.sucatalog.gz
+          postprocess: ./postprocessing/postprocess-catalog-gz.js
+
+      - name: Fetch macOS 10.14 sucatalog
+        uses: githubocto/flat@v2
+        with:
+          http_url: https://swscan.apple.com/content/catalogs/others/index-10.14-10.13-10.12-10.11-10.10-10.9-mountainlion-lion-snowleopard-leopard.merged-1.sucatalog.gz
+          downloaded_filename: ./swscan.apple.com/content/catalogs/others/index-10.14-10.13-10.12-10.11-10.10-10.9-mountainlion-lion-snowleopard-leopard.merged-1.sucatalog.gz
+          postprocess: ./postprocessing/postprocess-catalog-gz.js
+
+      #
+      # macOS IPSW files
+      #
+      - name: Fetch macOS IPSW xml
+        uses: githubocto/flat@v2
+        with:
+          http_url: https://mesu.apple.com/assets/macos/com_apple_macOSIPSW/com_apple_macOSIPSW.xml
+          downloaded_filename: ./mesu.apple.com/assets/macos/com_apple_macOSIPSW/com_apple_macOSIPSW.xml
+          postprocess: ./postprocessing/postprocess-plist.js
+
+      #
+      # iOS Software Update
+      #
+      - name: Fetch iOS software update xml
+        uses: githubocto/flat@v2
+        with:
+          http_url: https://mesu.apple.com/assets/com_apple_MobileAsset_SoftwareUpdate/com_apple_MobileAsset_SoftwareUpdate.xml
+          downloaded_filename: ./mesu.apple.com/assets/com_apple_MobileAsset_SoftwareUpdate/com_apple_MobileAsset_SoftwareUpdate.xml
+          postprocess: ./postprocessing/postprocess-plist.js
