@@ -1,7 +1,7 @@
 {
   "ApplePostURL": "",
   "CatalogVersion": 2,
-  "IndexDate": "2021-05-27T00:06:34Z",
+  "IndexDate": "2021-05-28T18:25:32Z",
   "Products": {
     "001-04272": {
       "Distributions": {
@@ -55629,35 +55629,20 @@
       "PostDate": "2021-05-03T17:11:18Z",
       "State": "ramped"
     },
-    "071-32467": {
+    "071-40076": {
       "Distributions": {
-        "English": "https://swdist.apple.com/content/downloads/07/17/071-32467-A_BIYYJEWW68/0cf0inh3lnilgceusc7q00p1uk3oruzc45/071-32467.English.dist"
+        "English": "https://swdist.apple.com/content/downloads/21/54/071-40076-A_GICYNW4EJR/9n5lss36q03q2fytw70gujlt98s5vzmhb2/071-40076.English.dist"
       },
       "Packages": [
         {
-          "Digest": "bc7f8399b7009db5f46d0d2057a8229a90187832",
-          "MetadataURL": "https://swdist.apple.com/content/downloads/07/17/071-32467-A_BIYYJEWW68/0cf0inh3lnilgceusc7q00p1uk3oruzc45/MRTConfigData_10_15.pkm",
-          "Size": 4805240,
-          "URL": "http://swcdn.apple.com/content/downloads/07/17/071-32467-A_BIYYJEWW68/0cf0inh3lnilgceusc7q00p1uk3oruzc45/MRTConfigData_10_15.pkg"
+          "Digest": "1fd4440bad6db60fd8d0abda097547cd75998ad9",
+          "MetadataURL": "https://swdist.apple.com/content/downloads/21/54/071-40076-A_GICYNW4EJR/9n5lss36q03q2fytw70gujlt98s5vzmhb2/MRTConfigData_10_15.pkm",
+          "Size": 4830957,
+          "URL": "http://swcdn.apple.com/content/downloads/21/54/071-40076-A_GICYNW4EJR/9n5lss36q03q2fytw70gujlt98s5vzmhb2/MRTConfigData_10_15.pkg"
         }
       ],
-      "PostDate": "2021-04-29T23:03:13Z",
-      "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/07/17/071-32467-A_BIYYJEWW68/0cf0inh3lnilgceusc7q00p1uk3oruzc45/MRTConfigData_10_15.smd"
-    },
-    "071-40074": {
-      "Distributions": {
-        "English": "https://swdist.apple.com/content/downloads/14/31/071-40074-A_YFY9UP93T1/6trk77k77fqv7keqspthoph50ddl1i9vke/071-40074.English.dist"
-      },
-      "Packages": [
-        {
-          "Digest": "aa65e4777bfd9b4fb6fe676ea869f68b8a482763",
-          "MetadataURL": "https://swdist.apple.com/content/downloads/14/31/071-40074-A_YFY9UP93T1/6trk77k77fqv7keqspthoph50ddl1i9vke/XProtectPlistConfigData_10_15.pkm",
-          "Size": 969751,
-          "URL": "http://swcdn.apple.com/content/downloads/14/31/071-40074-A_YFY9UP93T1/6trk77k77fqv7keqspthoph50ddl1i9vke/XProtectPlistConfigData_10_15.pkg"
-        }
-      ],
-      "PostDate": "2021-05-14T17:51:38Z",
-      "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/14/31/071-40074-A_YFY9UP93T1/6trk77k77fqv7keqspthoph50ddl1i9vke/XProtectPlistConfigData_10_15.smd"
+      "PostDate": "2021-05-28T18:14:05Z",
+      "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/21/54/071-40076-A_GICYNW4EJR/9n5lss36q03q2fytw70gujlt98s5vzmhb2/MRTConfigData_10_15.smd"
     },
     "071-44528": {
       "Distributions": {
@@ -55688,6 +55673,21 @@
       ],
       "PostDate": "2021-05-26T19:53:58Z",
       "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/20/34/071-45900-A_AJCV7RQXCB/ul2gaalwp4z3054rya1jqd80g3hh0h6ogi/SafariTechPreview.smd"
+    },
+    "071-47177": {
+      "Distributions": {
+        "English": "https://swdist.apple.com/content/downloads/28/11/071-47177-A_QH0BRYFA9D/covc36hyfqif9ec63qq6fwolb2q8j717zq/071-47177.English.dist"
+      },
+      "Packages": [
+        {
+          "Digest": "52660a9c988bb2109fff96a5da965e405c3b599c",
+          "MetadataURL": "https://swdist.apple.com/content/downloads/28/11/071-47177-A_QH0BRYFA9D/covc36hyfqif9ec63qq6fwolb2q8j717zq/XProtectPlistConfigData_10_15.pkm",
+          "Size": 970348,
+          "URL": "http://swcdn.apple.com/content/downloads/28/11/071-47177-A_QH0BRYFA9D/covc36hyfqif9ec63qq6fwolb2q8j717zq/XProtectPlistConfigData_10_15.pkg"
+        }
+      ],
+      "PostDate": "2021-05-28T18:10:33Z",
+      "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/28/11/071-47177-A_QH0BRYFA9D/covc36hyfqif9ec63qq6fwolb2q8j717zq/XProtectPlistConfigData_10_15.smd"
     },
     "091-76740": {
       "Distributions": {
