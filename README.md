@@ -1,0 +1,3 @@
+## What is this?
+
+This repo is scraping known Apple software update URLs and keeps the results in recursively sorted (and therefore diffable) JSON files. This is a work in progress...
