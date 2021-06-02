@@ -1,7 +1,7 @@
 {
   "ApplePostURL": "",
   "CatalogVersion": 2,
-  "IndexDate": "2021-05-28T18:21:11Z",
+  "IndexDate": "2021-06-02T17:12:50Z",
   "Products": {
     "001-04272": {
       "Distributions": {
@@ -53536,8 +53536,7 @@
           "URL": "http://swcdn.apple.com/content/downloads/55/59/071-00696-A_4T69TQR1VO/9psvjmwyjlucyg708cqjeaiylrvb0xph94/UpdateBrain.zip"
         }
       ],
-      "PostDate": "2021-05-24T17:01:12Z",
-      "State": "ramped"
+      "PostDate": "2021-06-02T17:04:00Z"
     },
     "071-00701": {
       "Distributions": {
@@ -54111,9 +54110,8 @@
           "URL": "http://swcdn.apple.com/content/downloads/30/58/071-28863-A_NXECG0EA4G/b75a2t8jukkhvu89ujgr4ixdpqf755r1vh/SecUpd2021-004Mojave.pkg"
         }
       ],
-      "PostDate": "2021-05-24T17:08:58Z",
-      "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/30/58/071-28863-A_NXECG0EA4G/b75a2t8jukkhvu89ujgr4ixdpqf755r1vh/SecUpd2021-004Mojave.smd",
-      "State": "ramped"
+      "PostDate": "2021-06-02T17:05:40Z",
+      "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/30/58/071-28863-A_NXECG0EA4G/b75a2t8jukkhvu89ujgr4ixdpqf755r1vh/SecUpd2021-004Mojave.smd"
     },
     "071-40073": {
       "Distributions": {
