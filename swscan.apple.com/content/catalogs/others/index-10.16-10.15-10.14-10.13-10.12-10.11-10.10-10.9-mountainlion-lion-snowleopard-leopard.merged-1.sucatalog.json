@@ -1,7 +1,7 @@
 {
   "ApplePostURL": "",
   "CatalogVersion": 2,
-  "IndexDate": "2021-06-05T00:07:49Z",
+  "IndexDate": "2021-06-07T17:21:06Z",
   "Products": {
     "001-04272": {
       "Distributions": {
@@ -54761,63 +54761,6 @@
       ],
       "PostDate": "2021-02-09T19:27:40Z",
       "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/50/03/071-05425-A_6SNBN8MOXF/fgtccf23x5ahgapugvimizgeiy70ci74eu/SecUpd2021-001Catalina.smd"
-    },
-    "071-08935": {
-      "Distributions": {
-        "English": "https://swdist.apple.com/content/downloads/37/23/071-08935-A_VI70PU5ZSV/dxl5i8eyczg8zje0wiks3r03r91euyi9sa/071-08935.English.dist"
-      },
-      "ExtendedMetaInfo": {
-        "InstallAssistantPackageIdentifiers": {
-          "BuildManifest": "com.apple.plist.BuildManifest",
-          "Info": "com.apple.plist.Info",
-          "InstallInfo": "com.apple.plist.InstallInfo",
-          "SharedSupport": "com.apple.pkg.InstallAssistant.macOSBigSur",
-          "UpdateBrain": "com.apple.zip.UpdateBrain"
-        }
-      },
-      "Packages": [
-        {
-          "Digest": "334a8af60dbb7d9965b4696abe141ef1d6dcd824",
-          "IntegrityDataSize": 41972,
-          "IntegrityDataURL": "http://swcdn.apple.com/content/downloads/37/23/071-08935-A_VI70PU5ZSV/dxl5i8eyczg8zje0wiks3r03r91euyi9sa/InstallAssistant.pkg.integrityDataV1",
-          "MetadataURL": "https://swdist.apple.com/content/downloads/37/23/071-08935-A_VI70PU5ZSV/dxl5i8eyczg8zje0wiks3r03r91euyi9sa/InstallAssistant.pkm",
-          "Size": 12200254955,
-          "URL": "http://swcdn.apple.com/content/downloads/37/23/071-08935-A_VI70PU5ZSV/dxl5i8eyczg8zje0wiks3r03r91euyi9sa/InstallAssistant.pkg"
-        },
-        {
-          "Digest": "6bae0d3d74bb4e35eebb4fef42e252a85337382d",
-          "IntegrityDataSize": 104,
-          "IntegrityDataURL": "http://swcdn.apple.com/content/downloads/37/23/071-08935-A_VI70PU5ZSV/dxl5i8eyczg8zje0wiks3r03r91euyi9sa/MajorOSInfo.pkg.integrityDataV1",
-          "MetadataURL": "https://swdist.apple.com/content/downloads/37/23/071-08935-A_VI70PU5ZSV/dxl5i8eyczg8zje0wiks3r03r91euyi9sa/MajorOSInfo.pkm",
-          "Size": 2633156,
-          "URL": "http://swcdn.apple.com/content/downloads/37/23/071-08935-A_VI70PU5ZSV/dxl5i8eyczg8zje0wiks3r03r91euyi9sa/MajorOSInfo.pkg"
-        },
-        {
-          "IntegrityDataSize": 104,
-          "IntegrityDataURL": "http://swcdn.apple.com/content/downloads/37/23/071-08935-A_VI70PU5ZSV/dxl5i8eyczg8zje0wiks3r03r91euyi9sa/BuildManifest.plist.integrityDataV1",
-          "Size": 1550182,
-          "URL": "http://swcdn.apple.com/content/downloads/37/23/071-08935-A_VI70PU5ZSV/dxl5i8eyczg8zje0wiks3r03r91euyi9sa/BuildManifest.plist"
-        },
-        {
-          "IntegrityDataSize": 104,
-          "IntegrityDataURL": "http://swcdn.apple.com/content/downloads/37/23/071-08935-A_VI70PU5ZSV/dxl5i8eyczg8zje0wiks3r03r91euyi9sa/Info.plist.integrityDataV1",
-          "Size": 5841,
-          "URL": "http://swcdn.apple.com/content/downloads/37/23/071-08935-A_VI70PU5ZSV/dxl5i8eyczg8zje0wiks3r03r91euyi9sa/Info.plist"
-        },
-        {
-          "IntegrityDataSize": 104,
-          "IntegrityDataURL": "http://swcdn.apple.com/content/downloads/37/23/071-08935-A_VI70PU5ZSV/dxl5i8eyczg8zje0wiks3r03r91euyi9sa/InstallInfo.plist.integrityDataV1",
-          "Size": 188,
-          "URL": "http://swcdn.apple.com/content/downloads/37/23/071-08935-A_VI70PU5ZSV/dxl5i8eyczg8zje0wiks3r03r91euyi9sa/InstallInfo.plist"
-        },
-        {
-          "IntegrityDataSize": 104,
-          "IntegrityDataURL": "http://swcdn.apple.com/content/downloads/37/23/071-08935-A_VI70PU5ZSV/dxl5i8eyczg8zje0wiks3r03r91euyi9sa/UpdateBrain.zip.integrityDataV1",
-          "Size": 1982394,
-          "URL": "http://swcdn.apple.com/content/downloads/37/23/071-08935-A_VI70PU5ZSV/dxl5i8eyczg8zje0wiks3r03r91euyi9sa/UpdateBrain.zip"
-        }
-      ],
-      "PostDate": "2021-03-01T18:20:19Z"
     },
     "071-09648": {
       "Distributions": {
