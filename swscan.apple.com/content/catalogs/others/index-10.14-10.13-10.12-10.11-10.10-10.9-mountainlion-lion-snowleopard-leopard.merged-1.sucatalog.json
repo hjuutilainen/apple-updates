@@ -1,7 +1,7 @@
 {
   "ApplePostURL": "",
   "CatalogVersion": 2,
-  "IndexDate": "2021-06-10T05:33:25Z",
+  "IndexDate": "2021-06-10T23:15:06Z",
   "Products": {
     "001-04272": {
       "Distributions": {
@@ -54112,21 +54112,6 @@
       ],
       "PostDate": "2021-06-02T17:05:40Z",
       "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/30/58/071-28863-A_NXECG0EA4G/b75a2t8jukkhvu89ujgr4ixdpqf755r1vh/SecUpd2021-004Mojave.smd"
-    },
-    "071-40073": {
-      "Distributions": {
-        "English": "https://swdist.apple.com/content/downloads/29/43/071-40073-A_MWI82Z02YB/lhp50jetrtl7fxheq2eig07ixqzuyzs24e/071-40073.English.dist"
-      },
-      "Packages": [
-        {
-          "Digest": "5dad5384079883d978c2220537942e52394132b5",
-          "MetadataURL": "https://swdist.apple.com/content/downloads/29/43/071-40073-A_MWI82Z02YB/lhp50jetrtl7fxheq2eig07ixqzuyzs24e/MRTConfigData_10_14.pkm",
-          "Size": 4830915,
-          "URL": "http://swcdn.apple.com/content/downloads/29/43/071-40073-A_MWI82Z02YB/lhp50jetrtl7fxheq2eig07ixqzuyzs24e/MRTConfigData_10_14.pkg"
-        }
-      ],
-      "PostDate": "2021-05-28T18:14:05Z",
-      "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/29/43/071-40073-A_MWI82Z02YB/lhp50jetrtl7fxheq2eig07ixqzuyzs24e/MRTConfigData_10_14.smd"
     },
     "071-47178": {
       "Distributions": {
