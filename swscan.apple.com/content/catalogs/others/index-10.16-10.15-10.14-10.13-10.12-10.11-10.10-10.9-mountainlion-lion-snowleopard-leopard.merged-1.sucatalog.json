@@ -1,7 +1,7 @@
 {
   "ApplePostURL": "",
   "CatalogVersion": 2,
-  "IndexDate": "2021-06-10T23:27:38Z",
+  "IndexDate": "2021-06-11T22:23:07Z",
   "Products": {
     "001-04272": {
       "Distributions": {
@@ -55613,20 +55613,20 @@
       "PostDate": "2021-05-26T19:53:58Z",
       "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/20/34/071-45900-A_AJCV7RQXCB/ul2gaalwp4z3054rya1jqd80g3hh0h6ogi/SafariTechPreview.smd"
     },
-    "071-47177": {
+    "071-52962": {
       "Distributions": {
-        "English": "https://swdist.apple.com/content/downloads/28/11/071-47177-A_QH0BRYFA9D/covc36hyfqif9ec63qq6fwolb2q8j717zq/071-47177.English.dist"
+        "English": "https://swdist.apple.com/content/downloads/44/57/071-52962-A_A0XU6EG7RU/0ol8anbbblnz3dumwtenx0gylfjiph469l/071-52962.English.dist"
       },
       "Packages": [
         {
-          "Digest": "52660a9c988bb2109fff96a5da965e405c3b599c",
-          "MetadataURL": "https://swdist.apple.com/content/downloads/28/11/071-47177-A_QH0BRYFA9D/covc36hyfqif9ec63qq6fwolb2q8j717zq/XProtectPlistConfigData_10_15.pkm",
-          "Size": 970348,
-          "URL": "http://swcdn.apple.com/content/downloads/28/11/071-47177-A_QH0BRYFA9D/covc36hyfqif9ec63qq6fwolb2q8j717zq/XProtectPlistConfigData_10_15.pkg"
+          "Digest": "506ac4883a85ff0f68ac26d41a384f3265ac6721",
+          "MetadataURL": "https://swdist.apple.com/content/downloads/44/57/071-52962-A_A0XU6EG7RU/0ol8anbbblnz3dumwtenx0gylfjiph469l/XProtectPlistConfigData_10_15.pkm",
+          "Size": 971053,
+          "URL": "http://swcdn.apple.com/content/downloads/44/57/071-52962-A_A0XU6EG7RU/0ol8anbbblnz3dumwtenx0gylfjiph469l/XProtectPlistConfigData_10_15.pkg"
         }
       ],
-      "PostDate": "2021-05-28T18:10:33Z",
-      "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/28/11/071-47177-A_QH0BRYFA9D/covc36hyfqif9ec63qq6fwolb2q8j717zq/XProtectPlistConfigData_10_15.smd"
+      "PostDate": "2021-06-11T22:09:23Z",
+      "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/44/57/071-52962-A_A0XU6EG7RU/0ol8anbbblnz3dumwtenx0gylfjiph469l/XProtectPlistConfigData_10_15.smd"
     },
     "091-76740": {
       "Distributions": {
