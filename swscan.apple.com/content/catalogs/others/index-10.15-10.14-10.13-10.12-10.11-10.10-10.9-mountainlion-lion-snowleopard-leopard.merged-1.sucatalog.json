@@ -1,7 +1,7 @@
 {
   "ApplePostURL": "",
   "CatalogVersion": 2,
-  "IndexDate": "2021-06-17T17:18:21Z",
+  "IndexDate": "2021-06-17T18:13:19Z",
   "Products": {
     "001-04272": {
       "Distributions": {
@@ -55457,36 +55457,6 @@
       ],
       "PostDate": "2021-05-28T18:14:05Z",
       "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/21/54/071-40076-A_GICYNW4EJR/9n5lss36q03q2fytw70gujlt98s5vzmhb2/MRTConfigData_10_15.smd"
-    },
-    "071-44528": {
-      "Distributions": {
-        "English": "https://swdist.apple.com/content/downloads/10/15/071-44528-A_BN6JLWWLQA/eeud2jei50gdvrpeo6zijd8rfy918euhl8/071-44528.English.dist"
-      },
-      "Packages": [
-        {
-          "Digest": "db81a695666553a6c2d55ade101b38733cdfcbc9",
-          "MetadataURL": "https://swdist.apple.com/content/downloads/10/15/071-44528-A_BN6JLWWLQA/eeud2jei50gdvrpeo6zijd8rfy918euhl8/SafariTechPreview.pkm",
-          "Size": 77223273,
-          "URL": "http://swcdn.apple.com/content/downloads/10/15/071-44528-A_BN6JLWWLQA/eeud2jei50gdvrpeo6zijd8rfy918euhl8/SafariTechPreview.pkg"
-        }
-      ],
-      "PostDate": "2021-05-26T19:53:57Z",
-      "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/10/15/071-44528-A_BN6JLWWLQA/eeud2jei50gdvrpeo6zijd8rfy918euhl8/SafariTechPreview.smd"
-    },
-    "071-44528::1": {
-      "Distributions": {
-        "English": "https://swdist.apple.com/content/downloads/00/27/071-44528-A_BPNFXU2CO7/alg0fuy326gno69lzfkm8ixw2jjxe4phgg/071-44528.English.dist"
-      },
-      "Packages": [
-        {
-          "Digest": "db81a695666553a6c2d55ade101b38733cdfcbc9",
-          "MetadataURL": "https://swdist.apple.com/content/downloads/00/27/071-44528-A_BPNFXU2CO7/alg0fuy326gno69lzfkm8ixw2jjxe4phgg/SafariTechPreview.pkm",
-          "Size": 77223273,
-          "URL": "http://swcdn.apple.com/content/downloads/00/27/071-44528-A_BPNFXU2CO7/alg0fuy326gno69lzfkm8ixw2jjxe4phgg/SafariTechPreview.pkg"
-        }
-      ],
-      "PostDate": "2021-06-17T17:16:19Z",
-      "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/00/27/071-44528-A_BPNFXU2CO7/alg0fuy326gno69lzfkm8ixw2jjxe4phgg/SafariTechPreview.smd"
     },
     "071-52962": {
       "Distributions": {
