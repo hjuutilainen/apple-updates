@@ -1,7 +1,7 @@
 {
   "ApplePostURL": "",
   "CatalogVersion": 2,
-  "IndexDate": "2021-06-17T20:06:21Z",
+  "IndexDate": "2021-06-21T17:38:06Z",
   "Products": {
     "001-04272": {
       "Distributions": {
@@ -55612,6 +55612,81 @@
       ],
       "PostDate": "2021-06-11T22:09:23Z",
       "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/44/57/071-52962-A_A0XU6EG7RU/0ol8anbbblnz3dumwtenx0gylfjiph469l/XProtectPlistConfigData_10_15.smd"
+    },
+    "071-54303": {
+      "Distributions": {
+        "English": "https://swdist.apple.com/content/downloads/02/62/071-54303-A_EU2CL1YVT7/943i95dpeyi2ghlnj2mgyq3t202t5gf18b/071-54303.English.dist"
+      },
+      "Packages": [
+        {
+          "Digest": "1319978ccf8dc654356f0a1c501d67d18d3b172a",
+          "MetadataURL": "https://swdist.apple.com/content/downloads/02/62/071-54303-A_EU2CL1YVT7/943i95dpeyi2ghlnj2mgyq3t202t5gf18b/CLTools_macOSNMOS_SDK.pkm",
+          "Size": 54904673,
+          "URL": "http://swcdn.apple.com/content/downloads/02/62/071-54303-A_EU2CL1YVT7/943i95dpeyi2ghlnj2mgyq3t202t5gf18b/CLTools_macOSNMOS_SDK.pkg"
+        },
+        {
+          "Digest": "1c917ecde6f01c1a70598b7756a28a7e9c5f36e8",
+          "MetadataURL": "https://swdist.apple.com/content/downloads/02/62/071-54303-A_EU2CL1YVT7/943i95dpeyi2ghlnj2mgyq3t202t5gf18b/CLTools_macOS_DevSDK_Remove_1014.pkm",
+          "Size": 5384,
+          "URL": "http://swcdn.apple.com/content/downloads/02/62/071-54303-A_EU2CL1YVT7/943i95dpeyi2ghlnj2mgyq3t202t5gf18b/CLTools_macOS_DevSDK_Remove_1014.pkg"
+        },
+        {
+          "Digest": "35a7b7789f85ceecdf01e693f3466eee7c55a5a2",
+          "MetadataURL": "https://swdist.apple.com/content/downloads/02/62/071-54303-A_EU2CL1YVT7/943i95dpeyi2ghlnj2mgyq3t202t5gf18b/CLTools_macOS_DevSDK_Remove_1012.pkm",
+          "Size": 5372,
+          "URL": "http://swcdn.apple.com/content/downloads/02/62/071-54303-A_EU2CL1YVT7/943i95dpeyi2ghlnj2mgyq3t202t5gf18b/CLTools_macOS_DevSDK_Remove_1012.pkg"
+        },
+        {
+          "Digest": "622693ecbd381fe6cf573c9cbebbb49e0759afb8",
+          "MetadataURL": "https://swdist.apple.com/content/downloads/02/62/071-54303-A_EU2CL1YVT7/943i95dpeyi2ghlnj2mgyq3t202t5gf18b/CLTools_macOS_DevSDK_Remove_1011.pkm",
+          "Size": 5370,
+          "URL": "http://swcdn.apple.com/content/downloads/02/62/071-54303-A_EU2CL1YVT7/943i95dpeyi2ghlnj2mgyq3t202t5gf18b/CLTools_macOS_DevSDK_Remove_1011.pkg"
+        },
+        {
+          "Digest": "66919f5dfcf9fef33cda90ffabaf3d85252b7798",
+          "MetadataURL": "https://swdist.apple.com/content/downloads/02/62/071-54303-A_EU2CL1YVT7/943i95dpeyi2ghlnj2mgyq3t202t5gf18b/CLTools_macOS_DevSDK_Remove_1008.pkm",
+          "Size": 5363,
+          "URL": "http://swcdn.apple.com/content/downloads/02/62/071-54303-A_EU2CL1YVT7/943i95dpeyi2ghlnj2mgyq3t202t5gf18b/CLTools_macOS_DevSDK_Remove_1008.pkg"
+        },
+        {
+          "Digest": "a81f0b81b96f5f391b371ea830546faf4f81640e",
+          "MetadataURL": "https://swdist.apple.com/content/downloads/02/62/071-54303-A_EU2CL1YVT7/943i95dpeyi2ghlnj2mgyq3t202t5gf18b/CLTools_Executables.pkm",
+          "Size": 383878775,
+          "URL": "http://swcdn.apple.com/content/downloads/02/62/071-54303-A_EU2CL1YVT7/943i95dpeyi2ghlnj2mgyq3t202t5gf18b/CLTools_Executables.pkg"
+        },
+        {
+          "Digest": "af52d1f7f57fb2c38773356d3f230f0b1d17073c",
+          "MetadataURL": "https://swdist.apple.com/content/downloads/02/62/071-54303-A_EU2CL1YVT7/943i95dpeyi2ghlnj2mgyq3t202t5gf18b/CLTools_macOS_DevSDK_Remove_1009.pkm",
+          "Size": 5368,
+          "URL": "http://swcdn.apple.com/content/downloads/02/62/071-54303-A_EU2CL1YVT7/943i95dpeyi2ghlnj2mgyq3t202t5gf18b/CLTools_macOS_DevSDK_Remove_1009.pkg"
+        },
+        {
+          "Digest": "b39f7c2227391c3cb2d0ae9e24183c218f77e946",
+          "MetadataURL": "https://swdist.apple.com/content/downloads/02/62/071-54303-A_EU2CL1YVT7/943i95dpeyi2ghlnj2mgyq3t202t5gf18b/CLTools_macOS_SDK.pkm",
+          "Size": 5407,
+          "URL": "http://swcdn.apple.com/content/downloads/02/62/071-54303-A_EU2CL1YVT7/943i95dpeyi2ghlnj2mgyq3t202t5gf18b/CLTools_macOS_SDK.pkg"
+        },
+        {
+          "Digest": "b562aac6a47eb781dd36d0ca63b1ef08a91ae6c7",
+          "MetadataURL": "https://swdist.apple.com/content/downloads/02/62/071-54303-A_EU2CL1YVT7/943i95dpeyi2ghlnj2mgyq3t202t5gf18b/CLTools_macOSLMOS_SDK.pkm",
+          "Size": 43293884,
+          "URL": "http://swcdn.apple.com/content/downloads/02/62/071-54303-A_EU2CL1YVT7/943i95dpeyi2ghlnj2mgyq3t202t5gf18b/CLTools_macOSLMOS_SDK.pkg"
+        },
+        {
+          "Digest": "c208bac566b223a9f2ae0ee5e8f01e955dfad3ba",
+          "MetadataURL": "https://swdist.apple.com/content/downloads/02/62/071-54303-A_EU2CL1YVT7/943i95dpeyi2ghlnj2mgyq3t202t5gf18b/CLTools_macOS_DevSDK_Remove_1010.pkm",
+          "Size": 5366,
+          "URL": "http://swcdn.apple.com/content/downloads/02/62/071-54303-A_EU2CL1YVT7/943i95dpeyi2ghlnj2mgyq3t202t5gf18b/CLTools_macOS_DevSDK_Remove_1010.pkg"
+        },
+        {
+          "Digest": "f4e89f8d0e37d18d2b4501f332483fe20625bbc8",
+          "MetadataURL": "https://swdist.apple.com/content/downloads/02/62/071-54303-A_EU2CL1YVT7/943i95dpeyi2ghlnj2mgyq3t202t5gf18b/CLTools_macOS_DevSDK_Remove_1013.pkm",
+          "Size": 5374,
+          "URL": "http://swcdn.apple.com/content/downloads/02/62/071-54303-A_EU2CL1YVT7/943i95dpeyi2ghlnj2mgyq3t202t5gf18b/CLTools_macOS_DevSDK_Remove_1013.pkg"
+        }
+      ],
+      "PostDate": "2021-06-21T17:36:40Z",
+      "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/02/62/071-54303-A_EU2CL1YVT7/943i95dpeyi2ghlnj2mgyq3t202t5gf18b/CLTools_macOSNMOS_SDK.smd"
     },
     "091-76740": {
       "Distributions": {
