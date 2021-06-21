@@ -1,7 +1,7 @@
 {
   "ApplePostURL": "",
   "CatalogVersion": 2,
-  "IndexDate": "2021-06-21T17:38:06Z",
+  "IndexDate": "2021-06-21T22:48:33Z",
   "Products": {
     "001-04272": {
       "Distributions": {
@@ -55687,6 +55687,21 @@
       ],
       "PostDate": "2021-06-21T17:36:40Z",
       "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/02/62/071-54303-A_EU2CL1YVT7/943i95dpeyi2ghlnj2mgyq3t202t5gf18b/CLTools_macOSNMOS_SDK.smd"
+    },
+    "071-57330": {
+      "Distributions": {
+        "English": "https://swdist.apple.com/content/downloads/21/34/071-57330-A_SX642H6KZ7/7vgyoy3wd64djem62w4n1irusp2w4lq549/071-57330.English.dist"
+      },
+      "Packages": [
+        {
+          "Digest": "f2464ef469df47ac4be31ea46f240e892638beea",
+          "MetadataURL": "https://swdist.apple.com/content/downloads/21/34/071-57330-A_SX642H6KZ7/7vgyoy3wd64djem62w4n1irusp2w4lq549/SafariTechPreview.pkm",
+          "Size": 107877392,
+          "URL": "http://swcdn.apple.com/content/downloads/21/34/071-57330-A_SX642H6KZ7/7vgyoy3wd64djem62w4n1irusp2w4lq549/SafariTechPreview.pkg"
+        }
+      ],
+      "PostDate": "2021-06-21T22:47:08Z",
+      "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/21/34/071-57330-A_SX642H6KZ7/7vgyoy3wd64djem62w4n1irusp2w4lq549/SafariTechPreview.smd"
     },
     "091-76740": {
       "Distributions": {
