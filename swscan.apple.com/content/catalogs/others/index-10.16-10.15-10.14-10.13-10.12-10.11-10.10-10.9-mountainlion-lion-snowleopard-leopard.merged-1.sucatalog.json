@@ -1,7 +1,7 @@
 {
   "ApplePostURL": "",
   "CatalogVersion": 2,
-  "IndexDate": "2021-06-25T22:05:02Z",
+  "IndexDate": "2021-06-28T17:28:44Z",
   "Products": {
     "001-04272": {
       "Distributions": {
@@ -55583,36 +55583,6 @@
       "PostDate": "2021-05-03T17:11:18Z",
       "State": "ramped"
     },
-    "071-40076": {
-      "Distributions": {
-        "English": "https://swdist.apple.com/content/downloads/21/54/071-40076-A_GICYNW4EJR/9n5lss36q03q2fytw70gujlt98s5vzmhb2/071-40076.English.dist"
-      },
-      "Packages": [
-        {
-          "Digest": "1fd4440bad6db60fd8d0abda097547cd75998ad9",
-          "MetadataURL": "https://swdist.apple.com/content/downloads/21/54/071-40076-A_GICYNW4EJR/9n5lss36q03q2fytw70gujlt98s5vzmhb2/MRTConfigData_10_15.pkm",
-          "Size": 4830957,
-          "URL": "http://swcdn.apple.com/content/downloads/21/54/071-40076-A_GICYNW4EJR/9n5lss36q03q2fytw70gujlt98s5vzmhb2/MRTConfigData_10_15.pkg"
-        }
-      ],
-      "PostDate": "2021-05-28T18:14:05Z",
-      "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/21/54/071-40076-A_GICYNW4EJR/9n5lss36q03q2fytw70gujlt98s5vzmhb2/MRTConfigData_10_15.smd"
-    },
-    "071-52962": {
-      "Distributions": {
-        "English": "https://swdist.apple.com/content/downloads/44/57/071-52962-A_A0XU6EG7RU/0ol8anbbblnz3dumwtenx0gylfjiph469l/071-52962.English.dist"
-      },
-      "Packages": [
-        {
-          "Digest": "506ac4883a85ff0f68ac26d41a384f3265ac6721",
-          "MetadataURL": "https://swdist.apple.com/content/downloads/44/57/071-52962-A_A0XU6EG7RU/0ol8anbbblnz3dumwtenx0gylfjiph469l/XProtectPlistConfigData_10_15.pkm",
-          "Size": 971053,
-          "URL": "http://swcdn.apple.com/content/downloads/44/57/071-52962-A_A0XU6EG7RU/0ol8anbbblnz3dumwtenx0gylfjiph469l/XProtectPlistConfigData_10_15.pkg"
-        }
-      ],
-      "PostDate": "2021-06-11T22:09:23Z",
-      "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/44/57/071-52962-A_A0XU6EG7RU/0ol8anbbblnz3dumwtenx0gylfjiph469l/XProtectPlistConfigData_10_15.smd"
-    },
     "071-54303": {
       "Distributions": {
         "English": "https://swdist.apple.com/content/downloads/02/62/071-54303-A_EU2CL1YVT7/943i95dpeyi2ghlnj2mgyq3t202t5gf18b/071-54303.English.dist"
@@ -55702,6 +55672,36 @@
       ],
       "PostDate": "2021-06-21T22:47:08Z",
       "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/21/34/071-57330-A_SX642H6KZ7/7vgyoy3wd64djem62w4n1irusp2w4lq549/SafariTechPreview.smd"
+    },
+    "071-57332": {
+      "Distributions": {
+        "English": "https://swdist.apple.com/content/downloads/57/37/071-57332-A_6OSG0L8G4G/th4nnocb9zugz07s8za6aqxwns8mrbvxy5/071-57332.English.dist"
+      },
+      "Packages": [
+        {
+          "Digest": "3a35f7e0e6f90cc43162c6bd1162560c6c4abac1",
+          "MetadataURL": "https://swdist.apple.com/content/downloads/57/37/071-57332-A_6OSG0L8G4G/th4nnocb9zugz07s8za6aqxwns8mrbvxy5/XProtectPlistConfigData_10_15.pkm",
+          "Size": 971793,
+          "URL": "http://swcdn.apple.com/content/downloads/57/37/071-57332-A_6OSG0L8G4G/th4nnocb9zugz07s8za6aqxwns8mrbvxy5/XProtectPlistConfigData_10_15.pkg"
+        }
+      ],
+      "PostDate": "2021-06-28T17:17:59Z",
+      "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/57/37/071-57332-A_6OSG0L8G4G/th4nnocb9zugz07s8za6aqxwns8mrbvxy5/XProtectPlistConfigData_10_15.smd"
+    },
+    "071-57333": {
+      "Distributions": {
+        "English": "https://swdist.apple.com/content/downloads/29/46/071-57333-A_XU77YQLS04/uf3g7pl81k84yt4aili4rl2kl7d4fhg5z2/071-57333.English.dist"
+      },
+      "Packages": [
+        {
+          "Digest": "b8c336f0b801e53fe42edab61d76bfe306ff27a4",
+          "MetadataURL": "https://swdist.apple.com/content/downloads/29/46/071-57333-A_XU77YQLS04/uf3g7pl81k84yt4aili4rl2kl7d4fhg5z2/MRTConfigData_10_15.pkm",
+          "Size": 4886740,
+          "URL": "http://swcdn.apple.com/content/downloads/29/46/071-57333-A_XU77YQLS04/uf3g7pl81k84yt4aili4rl2kl7d4fhg5z2/MRTConfigData_10_15.pkg"
+        }
+      ],
+      "PostDate": "2021-06-28T17:09:47Z",
+      "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/29/46/071-57333-A_XU77YQLS04/uf3g7pl81k84yt4aili4rl2kl7d4fhg5z2/MRTConfigData_10_15.smd"
     },
     "091-76740": {
       "Distributions": {
