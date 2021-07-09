@@ -1,7 +1,7 @@
 {
   "ApplePostURL": "",
   "CatalogVersion": 2,
-  "IndexDate": "2021-07-09T17:25:29Z",
+  "IndexDate": "2021-07-09T17:34:32Z",
   "Products": {
     "001-04272": {
       "Distributions": {
@@ -54844,21 +54844,6 @@
         }
       ],
       "PostDate": "2021-03-08T18:04:29Z"
-    },
-    "071-16087": {
-      "Distributions": {
-        "English": "https://swdist.apple.com/content/downloads/40/06/071-16087-A_VOMGCOGMK0/jg9z2t10wkn7nql7vhyytu0bv3repgsmij/071-16087.English.dist"
-      },
-      "Packages": [
-        {
-          "Digest": "37fa78ef1bb249523e6c2b6349f27a056de1d7a1",
-          "MetadataURL": "https://swdist.apple.com/content/downloads/40/06/071-16087-A_VOMGCOGMK0/jg9z2t10wkn7nql7vhyytu0bv3repgsmij/SafeView.pkm",
-          "Size": 24278167,
-          "URL": "http://swcdn.apple.com/content/downloads/40/06/071-16087-A_VOMGCOGMK0/jg9z2t10wkn7nql7vhyytu0bv3repgsmij/SafeView.pkg"
-        }
-      ],
-      "PostDate": "2021-03-31T18:02:30Z",
-      "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/40/06/071-16087-A_VOMGCOGMK0/jg9z2t10wkn7nql7vhyytu0bv3repgsmij/SafeView.smd"
     },
     "071-18867": {
       "Distributions": {
