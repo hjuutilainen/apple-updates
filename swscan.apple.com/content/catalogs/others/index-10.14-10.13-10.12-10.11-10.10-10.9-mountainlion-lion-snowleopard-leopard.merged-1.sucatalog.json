@@ -1,7 +1,7 @@
 {
   "ApplePostURL": "",
   "CatalogVersion": 2,
-  "IndexDate": "2021-07-09T01:35:48Z",
+  "IndexDate": "2021-07-09T17:23:02Z",
   "Products": {
     "001-04272": {
       "Distributions": {
@@ -54004,6 +54004,21 @@
       "PostDate": "2021-05-24T22:05:06Z",
       "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/25/25/071-21058-A_0EB828RCS8/leq8j3xiafddw07ydrwzm5nssep8mpt4aq/Safari14.1.1MojaveAuto.smd",
       "State": "ramped"
+    },
+    "071-25484": {
+      "Distributions": {
+        "English": "https://swdist.apple.com/content/downloads/01/08/071-25484-A_YFXLDL7TPH/jlirrg1mgvqosno5g5bhkjk4h4o48en6mv/071-25484.English.dist"
+      },
+      "Packages": [
+        {
+          "Digest": "a0bd44acfd1c811f72b96db8cf8697e2d3162a04",
+          "MetadataURL": "https://swdist.apple.com/content/downloads/01/08/071-25484-A_YFXLDL7TPH/jlirrg1mgvqosno5g5bhkjk4h4o48en6mv/SafeView.pkm",
+          "Size": 24329639,
+          "URL": "http://swcdn.apple.com/content/downloads/01/08/071-25484-A_YFXLDL7TPH/jlirrg1mgvqosno5g5bhkjk4h4o48en6mv/SafeView.pkg"
+        }
+      ],
+      "PostDate": "2021-07-09T17:22:07Z",
+      "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/01/08/071-25484-A_YFXLDL7TPH/jlirrg1mgvqosno5g5bhkjk4h4o48en6mv/SafeView.smd"
     },
     "071-28863": {
       "Distributions": {

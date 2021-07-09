@@ -1,7 +1,7 @@
 {
   "ApplePostURL": "",
   "CatalogVersion": 2,
-  "IndexDate": "2021-07-09T01:38:58Z",
+  "IndexDate": "2021-07-09T17:25:29Z",
   "Products": {
     "001-04272": {
       "Distributions": {
@@ -54981,6 +54981,21 @@
       ],
       "PostDate": "2021-06-02T18:23:21Z",
       "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/33/62/071-21211-A_YV5ESAI9E9/rjfqnpg4pbkua6dyay9yb89ryp6veq2pt1/Safari14.1.1CatalinaAuto.smd"
+    },
+    "071-25484": {
+      "Distributions": {
+        "English": "https://swdist.apple.com/content/downloads/01/08/071-25484-A_YFXLDL7TPH/jlirrg1mgvqosno5g5bhkjk4h4o48en6mv/071-25484.English.dist"
+      },
+      "Packages": [
+        {
+          "Digest": "a0bd44acfd1c811f72b96db8cf8697e2d3162a04",
+          "MetadataURL": "https://swdist.apple.com/content/downloads/01/08/071-25484-A_YFXLDL7TPH/jlirrg1mgvqosno5g5bhkjk4h4o48en6mv/SafeView.pkm",
+          "Size": 24329639,
+          "URL": "http://swcdn.apple.com/content/downloads/01/08/071-25484-A_YFXLDL7TPH/jlirrg1mgvqosno5g5bhkjk4h4o48en6mv/SafeView.pkg"
+        }
+      ],
+      "PostDate": "2021-07-09T17:22:07Z",
+      "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/01/08/071-25484-A_YFXLDL7TPH/jlirrg1mgvqosno5g5bhkjk4h4o48en6mv/SafeView.smd"
     },
     "071-28858": {
       "Distributions": {
