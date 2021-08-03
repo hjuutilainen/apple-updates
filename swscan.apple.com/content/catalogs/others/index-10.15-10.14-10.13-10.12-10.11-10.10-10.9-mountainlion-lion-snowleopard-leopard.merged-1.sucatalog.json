@@ -1,7 +1,7 @@
 {
   "ApplePostURL": "",
   "CatalogVersion": 2,
-  "IndexDate": "2021-08-03T17:59:56Z",
+  "IndexDate": "2021-08-03T20:12:59Z",
   "Products": {
     "001-04272": {
       "Distributions": {
@@ -1085,6 +1085,21 @@
       ],
       "PostDate": "2020-09-24T17:09:31Z",
       "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/20/55/001-51042-A_2EJTJOSUC2/rsvf13iphg5lvcqcysqcarv8cvddq8igek/InstallAssistantAuto.smd"
+    },
+    "001-55228": {
+      "Distributions": {
+        "English": "https://swdist.apple.com/content/downloads/20/53/001-55228-A_Z84FTTFMPF/6vx5i3e99yxd9fqpgreccheb7ng0m23pqk/001-55228.English.dist"
+      },
+      "Packages": [
+        {
+          "Digest": "c23ee762a689a0d0d7e7398e9118510e019c23f9",
+          "MetadataURL": "https://swdist.apple.com/content/downloads/20/53/001-55228-A_Z84FTTFMPF/6vx5i3e99yxd9fqpgreccheb7ng0m23pqk/BootCampESD.pkm",
+          "Size": 720585317,
+          "URL": "http://swcdn.apple.com/content/downloads/20/53/001-55228-A_Z84FTTFMPF/6vx5i3e99yxd9fqpgreccheb7ng0m23pqk/BootCampESD.pkg"
+        }
+      ],
+      "PostDate": "2021-08-03T19:58:52Z",
+      "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/20/53/001-55228-A_Z84FTTFMPF/6vx5i3e99yxd9fqpgreccheb7ng0m23pqk/BootCampESD.smd"
     },
     "001-55265": {
       "Distributions": {
@@ -53944,21 +53959,6 @@
       ],
       "PostDate": "2020-06-15T17:00:03Z",
       "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/06/08/061-78585-A_BTB8W2XF1Z/dsc7r5xy3jbsh761q6tzia5lrnahjw6w14/macOSUpd10.15.5.smd"
-    },
-    "061-78808": {
-      "Distributions": {
-        "English": "https://swdist.apple.com/content/downloads/27/38/061-78808-A_8DBC5WWY5S/ghmj2vy7mzaetbh0yh6dd6zw9bl1xq3kra/061-78808.English.dist"
-      },
-      "Packages": [
-        {
-          "Digest": "53ce466ec0e311f2efbbcd9936a9db987ff99636",
-          "MetadataURL": "https://swdist.apple.com/content/downloads/27/38/061-78808-A_8DBC5WWY5S/ghmj2vy7mzaetbh0yh6dd6zw9bl1xq3kra/BootCampESD.pkm",
-          "Size": 708251930,
-          "URL": "http://swcdn.apple.com/content/downloads/27/38/061-78808-A_8DBC5WWY5S/ghmj2vy7mzaetbh0yh6dd6zw9bl1xq3kra/BootCampESD.pkg"
-        }
-      ],
-      "PostDate": "2020-07-06T20:00:04Z",
-      "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/27/38/061-78808-A_8DBC5WWY5S/ghmj2vy7mzaetbh0yh6dd6zw9bl1xq3kra/BootCampESD.smd"
     },
     "061-86291": {
       "Distributions": {
