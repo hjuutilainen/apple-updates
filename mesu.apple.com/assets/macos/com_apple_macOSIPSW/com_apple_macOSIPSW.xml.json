@@ -19,116 +19,116 @@
     "1": {
       "MobileDeviceSoftwareVersions": {
         "MacBookAir10,1": {
-          "20G80": {
+          "20G95": {
             "Restore": {
-              "BuildVersion": "20G80",
+              "BuildVersion": "20G95",
               "DocumentationURL": "",
-              "FirmwareSHA1": "c509056720fa190fda61c78b1b67ad42853228b5",
-              "FirmwareURL": "https://updates.cdn-apple.com/2021SummerFCS/fullrestores/071-72793/D57C87F1-FFDA-49FD-8747-30B9EE0DB21F/UniversalMac_11.5.1_20G80_Restore.ipsw",
-              "ProductVersion": "11.5.1"
+              "FirmwareSHA1": "9317d97739f7f83670db5a05eccac722ddf45132",
+              "FirmwareURL": "https://updates.cdn-apple.com/2021SummerFCS/fullrestores/071-78715/CFEE4AA0-C104-479B-BDE1-3BFA1DFE710C/UniversalMac_11.5.2_20G95_Restore.ipsw",
+              "ProductVersion": "11.5.2"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "20G80",
+                "BuildVersion": "20G95",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "c509056720fa190fda61c78b1b67ad42853228b5",
-                "FirmwareURL": "https://updates.cdn-apple.com/2021SummerFCS/fullrestores/071-72793/D57C87F1-FFDA-49FD-8747-30B9EE0DB21F/UniversalMac_11.5.1_20G80_Restore.ipsw",
-                "ProductVersion": "11.5.1"
+                "FirmwareSHA1": "9317d97739f7f83670db5a05eccac722ddf45132",
+                "FirmwareURL": "https://updates.cdn-apple.com/2021SummerFCS/fullrestores/071-78715/CFEE4AA0-C104-479B-BDE1-3BFA1DFE710C/UniversalMac_11.5.2_20G95_Restore.ipsw",
+                "ProductVersion": "11.5.2"
               }
             }
           }
         },
         "MacBookPro17,1": {
-          "20G80": {
+          "20G95": {
             "Restore": {
-              "BuildVersion": "20G80",
+              "BuildVersion": "20G95",
               "DocumentationURL": "",
-              "FirmwareSHA1": "c509056720fa190fda61c78b1b67ad42853228b5",
-              "FirmwareURL": "https://updates.cdn-apple.com/2021SummerFCS/fullrestores/071-72793/D57C87F1-FFDA-49FD-8747-30B9EE0DB21F/UniversalMac_11.5.1_20G80_Restore.ipsw",
-              "ProductVersion": "11.5.1"
+              "FirmwareSHA1": "9317d97739f7f83670db5a05eccac722ddf45132",
+              "FirmwareURL": "https://updates.cdn-apple.com/2021SummerFCS/fullrestores/071-78715/CFEE4AA0-C104-479B-BDE1-3BFA1DFE710C/UniversalMac_11.5.2_20G95_Restore.ipsw",
+              "ProductVersion": "11.5.2"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "20G80",
+                "BuildVersion": "20G95",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "c509056720fa190fda61c78b1b67ad42853228b5",
-                "FirmwareURL": "https://updates.cdn-apple.com/2021SummerFCS/fullrestores/071-72793/D57C87F1-FFDA-49FD-8747-30B9EE0DB21F/UniversalMac_11.5.1_20G80_Restore.ipsw",
-                "ProductVersion": "11.5.1"
+                "FirmwareSHA1": "9317d97739f7f83670db5a05eccac722ddf45132",
+                "FirmwareURL": "https://updates.cdn-apple.com/2021SummerFCS/fullrestores/071-78715/CFEE4AA0-C104-479B-BDE1-3BFA1DFE710C/UniversalMac_11.5.2_20G95_Restore.ipsw",
+                "ProductVersion": "11.5.2"
               }
             }
           }
         },
         "Macmini9,1": {
-          "20G80": {
+          "20G95": {
             "Restore": {
-              "BuildVersion": "20G80",
+              "BuildVersion": "20G95",
               "DocumentationURL": "",
-              "FirmwareSHA1": "c509056720fa190fda61c78b1b67ad42853228b5",
-              "FirmwareURL": "https://updates.cdn-apple.com/2021SummerFCS/fullrestores/071-72793/D57C87F1-FFDA-49FD-8747-30B9EE0DB21F/UniversalMac_11.5.1_20G80_Restore.ipsw",
-              "ProductVersion": "11.5.1"
+              "FirmwareSHA1": "9317d97739f7f83670db5a05eccac722ddf45132",
+              "FirmwareURL": "https://updates.cdn-apple.com/2021SummerFCS/fullrestores/071-78715/CFEE4AA0-C104-479B-BDE1-3BFA1DFE710C/UniversalMac_11.5.2_20G95_Restore.ipsw",
+              "ProductVersion": "11.5.2"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "20G80",
+                "BuildVersion": "20G95",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "c509056720fa190fda61c78b1b67ad42853228b5",
-                "FirmwareURL": "https://updates.cdn-apple.com/2021SummerFCS/fullrestores/071-72793/D57C87F1-FFDA-49FD-8747-30B9EE0DB21F/UniversalMac_11.5.1_20G80_Restore.ipsw",
-                "ProductVersion": "11.5.1"
+                "FirmwareSHA1": "9317d97739f7f83670db5a05eccac722ddf45132",
+                "FirmwareURL": "https://updates.cdn-apple.com/2021SummerFCS/fullrestores/071-78715/CFEE4AA0-C104-479B-BDE1-3BFA1DFE710C/UniversalMac_11.5.2_20G95_Restore.ipsw",
+                "ProductVersion": "11.5.2"
               }
             }
           }
         },
         "iMac21,1": {
-          "20G80": {
+          "20G95": {
             "Restore": {
-              "BuildVersion": "20G80",
+              "BuildVersion": "20G95",
               "DocumentationURL": "",
-              "FirmwareSHA1": "c509056720fa190fda61c78b1b67ad42853228b5",
-              "FirmwareURL": "https://updates.cdn-apple.com/2021SummerFCS/fullrestores/071-72793/D57C87F1-FFDA-49FD-8747-30B9EE0DB21F/UniversalMac_11.5.1_20G80_Restore.ipsw",
-              "ProductVersion": "11.5.1"
+              "FirmwareSHA1": "9317d97739f7f83670db5a05eccac722ddf45132",
+              "FirmwareURL": "https://updates.cdn-apple.com/2021SummerFCS/fullrestores/071-78715/CFEE4AA0-C104-479B-BDE1-3BFA1DFE710C/UniversalMac_11.5.2_20G95_Restore.ipsw",
+              "ProductVersion": "11.5.2"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "20G80",
+                "BuildVersion": "20G95",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "c509056720fa190fda61c78b1b67ad42853228b5",
-                "FirmwareURL": "https://updates.cdn-apple.com/2021SummerFCS/fullrestores/071-72793/D57C87F1-FFDA-49FD-8747-30B9EE0DB21F/UniversalMac_11.5.1_20G80_Restore.ipsw",
-                "ProductVersion": "11.5.1"
+                "FirmwareSHA1": "9317d97739f7f83670db5a05eccac722ddf45132",
+                "FirmwareURL": "https://updates.cdn-apple.com/2021SummerFCS/fullrestores/071-78715/CFEE4AA0-C104-479B-BDE1-3BFA1DFE710C/UniversalMac_11.5.2_20G95_Restore.ipsw",
+                "ProductVersion": "11.5.2"
               }
             }
           }
         },
         "iMac21,2": {
-          "20G80": {
+          "20G95": {
             "Restore": {
-              "BuildVersion": "20G80",
+              "BuildVersion": "20G95",
               "DocumentationURL": "",
-              "FirmwareSHA1": "c509056720fa190fda61c78b1b67ad42853228b5",
-              "FirmwareURL": "https://updates.cdn-apple.com/2021SummerFCS/fullrestores/071-72793/D57C87F1-FFDA-49FD-8747-30B9EE0DB21F/UniversalMac_11.5.1_20G80_Restore.ipsw",
-              "ProductVersion": "11.5.1"
+              "FirmwareSHA1": "9317d97739f7f83670db5a05eccac722ddf45132",
+              "FirmwareURL": "https://updates.cdn-apple.com/2021SummerFCS/fullrestores/071-78715/CFEE4AA0-C104-479B-BDE1-3BFA1DFE710C/UniversalMac_11.5.2_20G95_Restore.ipsw",
+              "ProductVersion": "11.5.2"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "20G80",
+                "BuildVersion": "20G95",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "c509056720fa190fda61c78b1b67ad42853228b5",
-                "FirmwareURL": "https://updates.cdn-apple.com/2021SummerFCS/fullrestores/071-72793/D57C87F1-FFDA-49FD-8747-30B9EE0DB21F/UniversalMac_11.5.1_20G80_Restore.ipsw",
-                "ProductVersion": "11.5.1"
+                "FirmwareSHA1": "9317d97739f7f83670db5a05eccac722ddf45132",
+                "FirmwareURL": "https://updates.cdn-apple.com/2021SummerFCS/fullrestores/071-78715/CFEE4AA0-C104-479B-BDE1-3BFA1DFE710C/UniversalMac_11.5.2_20G95_Restore.ipsw",
+                "ProductVersion": "11.5.2"
               }
             }
           }
