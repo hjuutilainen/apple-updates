@@ -1,7 +1,7 @@
 {
   "ApplePostURL": "",
   "CatalogVersion": 2,
-  "IndexDate": "2021-08-19T00:20:45Z",
+  "IndexDate": "2021-08-20T20:17:24Z",
   "Products": {
     "001-04272": {
       "Distributions": {
@@ -53865,7 +53865,7 @@
       "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/30/58/071-28863-A_NXECG0EA4G/b75a2t8jukkhvu89ujgr4ixdpqf755r1vh/SecUpd2021-004Mojave.smd"
     },
     "071-44390": {
-      "DeferredSUEnablementDate": "2021-08-19T07:00:00Z",
+      "DeferredSUEnablementDate": "2021-07-21T07:00:00Z",
       "Distributions": {
         "Dutch": "https://swdist.apple.com/content/downloads/33/28/071-44390-A_IQ4DD9ZA9P/xzbo7vu5wumlpv5fx2ccb8gdg28tqtllz0/071-44390.Dutch.dist",
         "English": "https://swdist.apple.com/content/downloads/33/28/071-44390-A_IQ4DD9ZA9P/xzbo7vu5wumlpv5fx2ccb8gdg28tqtllz0/071-44390.English.dist",
@@ -53970,7 +53970,7 @@
           "URL": "http://swcdn.apple.com/content/downloads/33/28/071-44390-A_IQ4DD9ZA9P/xzbo7vu5wumlpv5fx2ccb8gdg28tqtllz0/FirmwareUpdate.pkg"
         }
       ],
-      "PostDate": "2021-08-18T18:14:24Z",
+      "PostDate": "2021-08-20T20:15:40Z",
       "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/33/28/071-44390-A_IQ4DD9ZA9P/xzbo7vu5wumlpv5fx2ccb8gdg28tqtllz0/SecUpd2021-005Mojave.smd"
     },
     "071-47373": {

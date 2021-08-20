@@ -1,7 +1,7 @@
 {
   "ApplePostURL": "",
   "CatalogVersion": 2,
-  "IndexDate": "2021-08-19T00:26:07Z",
+  "IndexDate": "2021-08-20T20:17:52Z",
   "Products": {
     "001-04272": {
       "Distributions": {
@@ -55068,7 +55068,7 @@
       "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/46/17/071-40187-A_J8Y2FGUB4F/e7fribz1mwzdljlm1w8q60n7dbn0nwoa9a/Safari14.1.2CatalinaAuto.smd"
     },
     "071-41286": {
-      "DeferredSUEnablementDate": "2021-08-19T07:00:00Z",
+      "DeferredSUEnablementDate": "2021-07-21T07:00:00Z",
       "Distributions": {
         "Dutch": "https://swdist.apple.com/content/downloads/48/59/071-41286-A_1QSPF9B62X/3rln9ocxyzktqma51r32znozp5v9pep3kn/071-41286.Dutch.dist",
         "English": "https://swdist.apple.com/content/downloads/48/59/071-41286-A_1QSPF9B62X/3rln9ocxyzktqma51r32znozp5v9pep3kn/071-41286.English.dist",
@@ -55173,11 +55173,11 @@
           "URL": "http://swcdn.apple.com/content/downloads/48/59/071-41286-A_1QSPF9B62X/3rln9ocxyzktqma51r32znozp5v9pep3kn/SecureBoot.pkg"
         }
       ],
-      "PostDate": "2021-08-18T18:16:23Z",
+      "PostDate": "2021-08-20T20:15:40Z",
       "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/48/59/071-41286-A_1QSPF9B62X/3rln9ocxyzktqma51r32znozp5v9pep3kn/SecUpd2021-004Catalina.smd"
     },
     "071-44390": {
-      "DeferredSUEnablementDate": "2021-08-19T07:00:00Z",
+      "DeferredSUEnablementDate": "2021-07-21T07:00:00Z",
       "Distributions": {
         "Dutch": "https://swdist.apple.com/content/downloads/33/28/071-44390-A_IQ4DD9ZA9P/xzbo7vu5wumlpv5fx2ccb8gdg28tqtllz0/071-44390.Dutch.dist",
         "English": "https://swdist.apple.com/content/downloads/33/28/071-44390-A_IQ4DD9ZA9P/xzbo7vu5wumlpv5fx2ccb8gdg28tqtllz0/071-44390.English.dist",
@@ -55282,7 +55282,7 @@
           "URL": "http://swcdn.apple.com/content/downloads/33/28/071-44390-A_IQ4DD9ZA9P/xzbo7vu5wumlpv5fx2ccb8gdg28tqtllz0/FirmwareUpdate.pkg"
         }
       ],
-      "PostDate": "2021-08-18T18:14:24Z",
+      "PostDate": "2021-08-20T20:15:40Z",
       "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/33/28/071-44390-A_IQ4DD9ZA9P/xzbo7vu5wumlpv5fx2ccb8gdg28tqtllz0/SecUpd2021-005Mojave.smd"
     },
     "071-47373": {
