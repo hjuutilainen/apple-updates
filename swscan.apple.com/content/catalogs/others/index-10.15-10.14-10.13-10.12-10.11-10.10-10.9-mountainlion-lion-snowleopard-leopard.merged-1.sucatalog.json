@@ -1,7 +1,7 @@
 {
   "ApplePostURL": "",
   "CatalogVersion": 2,
-  "IndexDate": "2021-09-13T16:34:00Z",
+  "IndexDate": "2021-09-13T16:43:12Z",
   "Products": {
     "001-04272": {
       "Distributions": {
@@ -55661,20 +55661,20 @@
       "PostDate": "2021-08-23T17:33:48Z",
       "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/08/56/071-79052-A_DL1K31LWWF/v0f3yowdeltxkbgw98ihq1xjpns5lag8hn/XProtectPlistConfigData_10_15.smd"
     },
-    "071-86900": {
+    "071-93142": {
       "Distributions": {
-        "English": "https://swdist.apple.com/content/downloads/05/02/071-86900-A_K6H1K4M0LA/rysl2f3544zwbmqc6dtqrvm14c5o28efbq/071-86900.English.dist"
+        "English": "https://swdist.apple.com/content/downloads/10/47/071-93142-A_J5RJ2X7XOD/vp40kcm8nq8lj54awpx1out555ai405iff/071-93142.English.dist"
       },
       "Packages": [
         {
-          "Digest": "969006180071bdf19f01408ddd26fb888859024b",
-          "MetadataURL": "https://swdist.apple.com/content/downloads/05/02/071-86900-A_K6H1K4M0LA/rysl2f3544zwbmqc6dtqrvm14c5o28efbq/MRTConfigData_10_15.pkm",
-          "Size": 4891951,
-          "URL": "http://swcdn.apple.com/content/downloads/05/02/071-86900-A_K6H1K4M0LA/rysl2f3544zwbmqc6dtqrvm14c5o28efbq/MRTConfigData_10_15.pkg"
+          "Digest": "f9c7de53cd06235cd8b94866a0e933d23f62ba7d",
+          "MetadataURL": "https://swdist.apple.com/content/downloads/10/47/071-93142-A_J5RJ2X7XOD/vp40kcm8nq8lj54awpx1out555ai405iff/MRTConfigData_10_15.pkm",
+          "Size": 4893984,
+          "URL": "http://swcdn.apple.com/content/downloads/10/47/071-93142-A_J5RJ2X7XOD/vp40kcm8nq8lj54awpx1out555ai405iff/MRTConfigData_10_15.pkg"
         }
       ],
-      "PostDate": "2021-09-02T17:01:04Z",
-      "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/05/02/071-86900-A_K6H1K4M0LA/rysl2f3544zwbmqc6dtqrvm14c5o28efbq/MRTConfigData_10_15.smd"
+      "PostDate": "2021-09-13T16:31:15Z",
+      "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/10/47/071-93142-A_J5RJ2X7XOD/vp40kcm8nq8lj54awpx1out555ai405iff/MRTConfigData_10_15.smd"
     },
     "071-93400": {
       "Distributions": {
