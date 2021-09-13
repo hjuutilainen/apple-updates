@@ -1,7 +1,7 @@
 {
   "ApplePostURL": "",
   "CatalogVersion": 2,
-  "IndexDate": "2021-09-13T17:34:32Z",
+  "IndexDate": "2021-09-13T20:42:03Z",
   "Products": {
     "001-04272": {
       "Distributions": {
@@ -54250,9 +54250,8 @@
           "URL": "http://swcdn.apple.com/content/downloads/55/49/071-97389-A_2ARHXH3EV1/2b3c2sbhvjovoizo0nr1dnw86yvkgxtamv/BridgeOSUpdateCustomer.pkg"
         }
       ],
-      "PostDate": "2021-09-13T17:04:12Z",
-      "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/55/49/071-97389-A_2ARHXH3EV1/2b3c2sbhvjovoizo0nr1dnw86yvkgxtamv/BridgeOSUpdateCustomer.smd",
-      "State": "ramped"
+      "PostDate": "2021-09-13T20:39:25Z",
+      "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/55/49/071-97389-A_2ARHXH3EV1/2b3c2sbhvjovoizo0nr1dnw86yvkgxtamv/BridgeOSUpdateCustomer.smd"
     },
     "091-76740": {
       "Distributions": {
