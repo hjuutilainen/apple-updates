@@ -1,6 +1,10 @@
 {
   "MobileDeviceProductTypes": {
     "DFU": {
+      "134242304": "MacBookPro18,3",
+      "134242305": "MacBookPro18,4",
+      "167796736": "MacBookPro18,1",
+      "167796737": "MacBookPro18,2",
       "570458371": "Macmini9,1",
       "604012803": "MacBookPro17,1",
       "637567235": "MacBookAir10,1",
@@ -8,6 +12,10 @@
       "704676099": "iMac21,2"
     },
     "Recovery": {
+      "134242304": "MacBookPro18,3",
+      "134242305": "MacBookPro18,4",
+      "167796736": "MacBookPro18,1",
+      "167796737": "MacBookPro18,2",
       "570458371": "Macmini9,1",
       "604012803": "MacBookPro17,1",
       "637567235": "MacBookAir10,1",
@@ -19,116 +27,208 @@
     "1": {
       "MobileDeviceSoftwareVersions": {
         "MacBookAir10,1": {
-          "20G165": {
+          "21A559": {
             "Restore": {
-              "BuildVersion": "20G165",
+              "BuildVersion": "21A559",
               "DocumentationURL": "",
-              "FirmwareSHA1": "a66fb4f527006b776a0ad2d435fe433367b551b1",
-              "FirmwareURL": "https://updates.cdn-apple.com/2021FallFCS/fullrestores/071-97388/C361BF5E-0E01-47E5-8D30-5990BC3C9E29/UniversalMac_11.6_20G165_Restore.ipsw",
-              "ProductVersion": "11.6"
+              "FirmwareSHA1": "aa422d3ef4a8a1a454e66db586fa71a940901943",
+              "FirmwareURL": "https://updates.cdn-apple.com/2021FCSFall/fullrestores/002-23780/D3417F21-41BD-4DDF-9135-FA5A129AF6AF/UniversalMac_12.0.1_21A559_Restore.ipsw",
+              "ProductVersion": "12.0.1"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "20G165",
+                "BuildVersion": "21A559",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "a66fb4f527006b776a0ad2d435fe433367b551b1",
-                "FirmwareURL": "https://updates.cdn-apple.com/2021FallFCS/fullrestores/071-97388/C361BF5E-0E01-47E5-8D30-5990BC3C9E29/UniversalMac_11.6_20G165_Restore.ipsw",
-                "ProductVersion": "11.6"
+                "FirmwareSHA1": "aa422d3ef4a8a1a454e66db586fa71a940901943",
+                "FirmwareURL": "https://updates.cdn-apple.com/2021FCSFall/fullrestores/002-23780/D3417F21-41BD-4DDF-9135-FA5A129AF6AF/UniversalMac_12.0.1_21A559_Restore.ipsw",
+                "ProductVersion": "12.0.1"
               }
             }
           }
         },
         "MacBookPro17,1": {
-          "20G165": {
+          "21A559": {
             "Restore": {
-              "BuildVersion": "20G165",
+              "BuildVersion": "21A559",
               "DocumentationURL": "",
-              "FirmwareSHA1": "a66fb4f527006b776a0ad2d435fe433367b551b1",
-              "FirmwareURL": "https://updates.cdn-apple.com/2021FallFCS/fullrestores/071-97388/C361BF5E-0E01-47E5-8D30-5990BC3C9E29/UniversalMac_11.6_20G165_Restore.ipsw",
-              "ProductVersion": "11.6"
+              "FirmwareSHA1": "aa422d3ef4a8a1a454e66db586fa71a940901943",
+              "FirmwareURL": "https://updates.cdn-apple.com/2021FCSFall/fullrestores/002-23780/D3417F21-41BD-4DDF-9135-FA5A129AF6AF/UniversalMac_12.0.1_21A559_Restore.ipsw",
+              "ProductVersion": "12.0.1"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "20G165",
+                "BuildVersion": "21A559",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "a66fb4f527006b776a0ad2d435fe433367b551b1",
-                "FirmwareURL": "https://updates.cdn-apple.com/2021FallFCS/fullrestores/071-97388/C361BF5E-0E01-47E5-8D30-5990BC3C9E29/UniversalMac_11.6_20G165_Restore.ipsw",
-                "ProductVersion": "11.6"
+                "FirmwareSHA1": "aa422d3ef4a8a1a454e66db586fa71a940901943",
+                "FirmwareURL": "https://updates.cdn-apple.com/2021FCSFall/fullrestores/002-23780/D3417F21-41BD-4DDF-9135-FA5A129AF6AF/UniversalMac_12.0.1_21A559_Restore.ipsw",
+                "ProductVersion": "12.0.1"
+              }
+            }
+          }
+        },
+        "MacBookPro18,1": {
+          "21A559": {
+            "Restore": {
+              "BuildVersion": "21A559",
+              "DocumentationURL": "",
+              "FirmwareSHA1": "aa422d3ef4a8a1a454e66db586fa71a940901943",
+              "FirmwareURL": "https://updates.cdn-apple.com/2021FCSFall/fullrestores/002-23780/D3417F21-41BD-4DDF-9135-FA5A129AF6AF/UniversalMac_12.0.1_21A559_Restore.ipsw",
+              "ProductVersion": "12.0.1"
+            }
+          },
+          "Unknown": {
+            "Universal": {
+              "Restore": {
+                "BuildVersion": "21A559",
+                "DocumentationURL": "",
+                "EpochVersion": "1",
+                "FirmwareSHA1": "aa422d3ef4a8a1a454e66db586fa71a940901943",
+                "FirmwareURL": "https://updates.cdn-apple.com/2021FCSFall/fullrestores/002-23780/D3417F21-41BD-4DDF-9135-FA5A129AF6AF/UniversalMac_12.0.1_21A559_Restore.ipsw",
+                "ProductVersion": "12.0.1"
+              }
+            }
+          }
+        },
+        "MacBookPro18,2": {
+          "21A559": {
+            "Restore": {
+              "BuildVersion": "21A559",
+              "DocumentationURL": "",
+              "FirmwareSHA1": "aa422d3ef4a8a1a454e66db586fa71a940901943",
+              "FirmwareURL": "https://updates.cdn-apple.com/2021FCSFall/fullrestores/002-23780/D3417F21-41BD-4DDF-9135-FA5A129AF6AF/UniversalMac_12.0.1_21A559_Restore.ipsw",
+              "ProductVersion": "12.0.1"
+            }
+          },
+          "Unknown": {
+            "Universal": {
+              "Restore": {
+                "BuildVersion": "21A559",
+                "DocumentationURL": "",
+                "EpochVersion": "1",
+                "FirmwareSHA1": "aa422d3ef4a8a1a454e66db586fa71a940901943",
+                "FirmwareURL": "https://updates.cdn-apple.com/2021FCSFall/fullrestores/002-23780/D3417F21-41BD-4DDF-9135-FA5A129AF6AF/UniversalMac_12.0.1_21A559_Restore.ipsw",
+                "ProductVersion": "12.0.1"
+              }
+            }
+          }
+        },
+        "MacBookPro18,3": {
+          "21A559": {
+            "Restore": {
+              "BuildVersion": "21A559",
+              "DocumentationURL": "",
+              "FirmwareSHA1": "aa422d3ef4a8a1a454e66db586fa71a940901943",
+              "FirmwareURL": "https://updates.cdn-apple.com/2021FCSFall/fullrestores/002-23780/D3417F21-41BD-4DDF-9135-FA5A129AF6AF/UniversalMac_12.0.1_21A559_Restore.ipsw",
+              "ProductVersion": "12.0.1"
+            }
+          },
+          "Unknown": {
+            "Universal": {
+              "Restore": {
+                "BuildVersion": "21A559",
+                "DocumentationURL": "",
+                "EpochVersion": "1",
+                "FirmwareSHA1": "aa422d3ef4a8a1a454e66db586fa71a940901943",
+                "FirmwareURL": "https://updates.cdn-apple.com/2021FCSFall/fullrestores/002-23780/D3417F21-41BD-4DDF-9135-FA5A129AF6AF/UniversalMac_12.0.1_21A559_Restore.ipsw",
+                "ProductVersion": "12.0.1"
+              }
+            }
+          }
+        },
+        "MacBookPro18,4": {
+          "21A559": {
+            "Restore": {
+              "BuildVersion": "21A559",
+              "DocumentationURL": "",
+              "FirmwareSHA1": "aa422d3ef4a8a1a454e66db586fa71a940901943",
+              "FirmwareURL": "https://updates.cdn-apple.com/2021FCSFall/fullrestores/002-23780/D3417F21-41BD-4DDF-9135-FA5A129AF6AF/UniversalMac_12.0.1_21A559_Restore.ipsw",
+              "ProductVersion": "12.0.1"
+            }
+          },
+          "Unknown": {
+            "Universal": {
+              "Restore": {
+                "BuildVersion": "21A559",
+                "DocumentationURL": "",
+                "EpochVersion": "1",
+                "FirmwareSHA1": "aa422d3ef4a8a1a454e66db586fa71a940901943",
+                "FirmwareURL": "https://updates.cdn-apple.com/2021FCSFall/fullrestores/002-23780/D3417F21-41BD-4DDF-9135-FA5A129AF6AF/UniversalMac_12.0.1_21A559_Restore.ipsw",
+                "ProductVersion": "12.0.1"
               }
             }
           }
         },
         "Macmini9,1": {
-          "20G165": {
+          "21A559": {
             "Restore": {
-              "BuildVersion": "20G165",
+              "BuildVersion": "21A559",
               "DocumentationURL": "",
-              "FirmwareSHA1": "a66fb4f527006b776a0ad2d435fe433367b551b1",
-              "FirmwareURL": "https://updates.cdn-apple.com/2021FallFCS/fullrestores/071-97388/C361BF5E-0E01-47E5-8D30-5990BC3C9E29/UniversalMac_11.6_20G165_Restore.ipsw",
-              "ProductVersion": "11.6"
+              "FirmwareSHA1": "aa422d3ef4a8a1a454e66db586fa71a940901943",
+              "FirmwareURL": "https://updates.cdn-apple.com/2021FCSFall/fullrestores/002-23780/D3417F21-41BD-4DDF-9135-FA5A129AF6AF/UniversalMac_12.0.1_21A559_Restore.ipsw",
+              "ProductVersion": "12.0.1"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "20G165",
+                "BuildVersion": "21A559",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "a66fb4f527006b776a0ad2d435fe433367b551b1",
-                "FirmwareURL": "https://updates.cdn-apple.com/2021FallFCS/fullrestores/071-97388/C361BF5E-0E01-47E5-8D30-5990BC3C9E29/UniversalMac_11.6_20G165_Restore.ipsw",
-                "ProductVersion": "11.6"
+                "FirmwareSHA1": "aa422d3ef4a8a1a454e66db586fa71a940901943",
+                "FirmwareURL": "https://updates.cdn-apple.com/2021FCSFall/fullrestores/002-23780/D3417F21-41BD-4DDF-9135-FA5A129AF6AF/UniversalMac_12.0.1_21A559_Restore.ipsw",
+                "ProductVersion": "12.0.1"
               }
             }
           }
         },
         "iMac21,1": {
-          "20G165": {
+          "21A559": {
             "Restore": {
-              "BuildVersion": "20G165",
+              "BuildVersion": "21A559",
               "DocumentationURL": "",
-              "FirmwareSHA1": "a66fb4f527006b776a0ad2d435fe433367b551b1",
-              "FirmwareURL": "https://updates.cdn-apple.com/2021FallFCS/fullrestores/071-97388/C361BF5E-0E01-47E5-8D30-5990BC3C9E29/UniversalMac_11.6_20G165_Restore.ipsw",
-              "ProductVersion": "11.6"
+              "FirmwareSHA1": "aa422d3ef4a8a1a454e66db586fa71a940901943",
+              "FirmwareURL": "https://updates.cdn-apple.com/2021FCSFall/fullrestores/002-23780/D3417F21-41BD-4DDF-9135-FA5A129AF6AF/UniversalMac_12.0.1_21A559_Restore.ipsw",
+              "ProductVersion": "12.0.1"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "20G165",
+                "BuildVersion": "21A559",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "a66fb4f527006b776a0ad2d435fe433367b551b1",
-                "FirmwareURL": "https://updates.cdn-apple.com/2021FallFCS/fullrestores/071-97388/C361BF5E-0E01-47E5-8D30-5990BC3C9E29/UniversalMac_11.6_20G165_Restore.ipsw",
-                "ProductVersion": "11.6"
+                "FirmwareSHA1": "aa422d3ef4a8a1a454e66db586fa71a940901943",
+                "FirmwareURL": "https://updates.cdn-apple.com/2021FCSFall/fullrestores/002-23780/D3417F21-41BD-4DDF-9135-FA5A129AF6AF/UniversalMac_12.0.1_21A559_Restore.ipsw",
+                "ProductVersion": "12.0.1"
               }
             }
           }
         },
         "iMac21,2": {
-          "20G165": {
+          "21A559": {
             "Restore": {
-              "BuildVersion": "20G165",
+              "BuildVersion": "21A559",
               "DocumentationURL": "",
-              "FirmwareSHA1": "a66fb4f527006b776a0ad2d435fe433367b551b1",
-              "FirmwareURL": "https://updates.cdn-apple.com/2021FallFCS/fullrestores/071-97388/C361BF5E-0E01-47E5-8D30-5990BC3C9E29/UniversalMac_11.6_20G165_Restore.ipsw",
-              "ProductVersion": "11.6"
+              "FirmwareSHA1": "aa422d3ef4a8a1a454e66db586fa71a940901943",
+              "FirmwareURL": "https://updates.cdn-apple.com/2021FCSFall/fullrestores/002-23780/D3417F21-41BD-4DDF-9135-FA5A129AF6AF/UniversalMac_12.0.1_21A559_Restore.ipsw",
+              "ProductVersion": "12.0.1"
             }
           },
           "Unknown": {
             "Universal": {
               "Restore": {
-                "BuildVersion": "20G165",
+                "BuildVersion": "21A559",
                 "DocumentationURL": "",
                 "EpochVersion": "1",
-                "FirmwareSHA1": "a66fb4f527006b776a0ad2d435fe433367b551b1",
-                "FirmwareURL": "https://updates.cdn-apple.com/2021FallFCS/fullrestores/071-97388/C361BF5E-0E01-47E5-8D30-5990BC3C9E29/UniversalMac_11.6_20G165_Restore.ipsw",
-                "ProductVersion": "11.6"
+                "FirmwareSHA1": "aa422d3ef4a8a1a454e66db586fa71a940901943",
+                "FirmwareURL": "https://updates.cdn-apple.com/2021FCSFall/fullrestores/002-23780/D3417F21-41BD-4DDF-9135-FA5A129AF6AF/UniversalMac_12.0.1_21A559_Restore.ipsw",
+                "ProductVersion": "12.0.1"
               }
             }
           }
