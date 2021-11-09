@@ -1,7 +1,7 @@
 {
   "ApplePostURL": "",
   "CatalogVersion": 2,
-  "IndexDate": "2021-11-08T22:27:45Z",
+  "IndexDate": "2021-11-09T18:20:18Z",
   "Products": {
     "001-04272": {
       "Distributions": {
@@ -1145,6 +1145,21 @@
       ],
       "PostDate": "2021-10-01T17:52:37Z",
       "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/21/09/001-95615-A_RW6317XPIB/lt8djg41b4bcqjkf98xur7kyzsuey1668m/SFSymbolsAuto.smd"
+    },
+    "002-03739": {
+      "Distributions": {
+        "English": "https://swdist.apple.com/content/downloads/48/40/002-03739-A_5WX8M8W1RH/qe1e5aavajwjor262lavns0nwv1tqj9z7t/002-03739.English.dist"
+      },
+      "Packages": [
+        {
+          "Digest": "a874da9ac9bc3a38c9486cadbc1ab465c7979329",
+          "MetadataURL": "https://swdist.apple.com/content/downloads/48/40/002-03739-A_5WX8M8W1RH/qe1e5aavajwjor262lavns0nwv1tqj9z7t/MRTConfigData_10_14.pkm",
+          "Size": 4651699,
+          "URL": "http://swcdn.apple.com/content/downloads/48/40/002-03739-A_5WX8M8W1RH/qe1e5aavajwjor262lavns0nwv1tqj9z7t/MRTConfigData_10_14.pkg"
+        }
+      ],
+      "PostDate": "2021-11-09T18:16:27Z",
+      "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/48/40/002-03739-A_5WX8M8W1RH/qe1e5aavajwjor262lavns0nwv1tqj9z7t/MRTConfigData_10_14.smd"
     },
     "002-03843": {
       "Distributions": {
@@ -54227,21 +54242,6 @@
       ],
       "PostDate": "2021-09-24T17:30:12Z",
       "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/28/16/071-89247-A_FL3O60MWEW/t9239srrs8ctufwxntefzkmvjhdqzvllb2/Safari14.1.2MojaveAuto.smd"
-    },
-    "071-93143": {
-      "Distributions": {
-        "English": "https://swdist.apple.com/content/downloads/28/40/071-93143-A_61297MAG0S/mjojhrnzeybyl6jhuri3llyxsag6qe4pba/071-93143.English.dist"
-      },
-      "Packages": [
-        {
-          "Digest": "cf2c59d72ea7b10e834119aaf9cd8161cf9b482c",
-          "MetadataURL": "https://swdist.apple.com/content/downloads/28/40/071-93143-A_61297MAG0S/mjojhrnzeybyl6jhuri3llyxsag6qe4pba/MRTConfigData_10_14.pkm",
-          "Size": 4893939,
-          "URL": "http://swcdn.apple.com/content/downloads/28/40/071-93143-A_61297MAG0S/mjojhrnzeybyl6jhuri3llyxsag6qe4pba/MRTConfigData_10_14.pkg"
-        }
-      ],
-      "PostDate": "2021-09-13T16:31:14Z",
-      "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/28/40/071-93143-A_61297MAG0S/mjojhrnzeybyl6jhuri3llyxsag6qe4pba/MRTConfigData_10_14.smd"
     },
     "071-93454": {
       "Distributions": {
