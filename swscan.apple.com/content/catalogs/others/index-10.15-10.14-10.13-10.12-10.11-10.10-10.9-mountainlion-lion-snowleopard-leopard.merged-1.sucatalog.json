@@ -1,7 +1,7 @@
 {
   "ApplePostURL": "",
   "CatalogVersion": 2,
-  "IndexDate": "2021-11-09T22:36:47Z",
+  "IndexDate": "2021-11-11T23:07:47Z",
   "Products": {
     "001-04272": {
       "Distributions": {
@@ -1761,21 +1761,6 @@
       "PostDate": "2021-04-27T20:23:01Z",
       "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/46/21/001-89745-A_56FM390IW5/v1um2qppgfdnam2e9cdqcqu2r6k8aa3lis/CLTools_macOSNMOS_SDK.smd"
     },
-    "001-95615": {
-      "Distributions": {
-        "English": "https://swdist.apple.com/content/downloads/21/09/001-95615-A_RW6317XPIB/lt8djg41b4bcqjkf98xur7kyzsuey1668m/001-95615.English.dist"
-      },
-      "Packages": [
-        {
-          "Digest": "b4247eab88ac55d94b081e92d78c5d2bca6fe21e",
-          "MetadataURL": "https://swdist.apple.com/content/downloads/21/09/001-95615-A_RW6317XPIB/lt8djg41b4bcqjkf98xur7kyzsuey1668m/SFSymbolsAuto.pkm",
-          "Size": 206379014,
-          "URL": "http://swcdn.apple.com/content/downloads/21/09/001-95615-A_RW6317XPIB/lt8djg41b4bcqjkf98xur7kyzsuey1668m/SFSymbolsAuto.pkg"
-        }
-      ],
-      "PostDate": "2021-10-01T17:52:37Z",
-      "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/21/09/001-95615-A_RW6317XPIB/lt8djg41b4bcqjkf98xur7kyzsuey1668m/SFSymbolsAuto.smd"
-    },
     "002-03740": {
       "Distributions": {
         "English": "https://swdist.apple.com/content/downloads/40/17/002-03740-A_2YSQE6RNUH/zs8r37srgzvlan6bg4yssmbbfwgfywhd6j/002-03740.English.dist"
@@ -2071,6 +2056,21 @@
       "PostDate": "2021-10-27T21:06:00Z",
       "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/05/36/002-16258-A_B8Z6QT54QX/rb4hqw6b4r1384evs9kmq2aneej8q5ltt5/Safari15.1CatalinaAuto.smd",
       "State": "ramped"
+    },
+    "002-16272": {
+      "Distributions": {
+        "English": "https://swdist.apple.com/content/downloads/56/15/002-16272-A_GR3NQ7PR44/veutih6eonvo1ifnszj8xvor6pzm4uwnbl/002-16272.English.dist"
+      },
+      "Packages": [
+        {
+          "Digest": "1fe56398f5bb127e993ccb1398d742b044a8ead2",
+          "MetadataURL": "https://swdist.apple.com/content/downloads/56/15/002-16272-A_GR3NQ7PR44/veutih6eonvo1ifnszj8xvor6pzm4uwnbl/SFSymbolsAuto.pkm",
+          "Size": 207161554,
+          "URL": "http://swcdn.apple.com/content/downloads/56/15/002-16272-A_GR3NQ7PR44/veutih6eonvo1ifnszj8xvor6pzm4uwnbl/SFSymbolsAuto.pkg"
+        }
+      ],
+      "PostDate": "2021-11-11T22:59:15Z",
+      "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/56/15/002-16272-A_GR3NQ7PR44/veutih6eonvo1ifnszj8xvor6pzm4uwnbl/SFSymbolsAuto.smd"
     },
     "002-23748": {
       "Distributions": {
