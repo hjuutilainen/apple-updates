@@ -1,7 +1,7 @@
 {
   "ApplePostURL": "",
   "CatalogVersion": 2,
-  "IndexDate": "2021-11-19T18:33:41Z",
+  "IndexDate": "2021-11-29T19:07:21Z",
   "Products": {
     "001-04272": {
       "Distributions": {
@@ -1334,8 +1334,22 @@
           "URL": "http://swcdn.apple.com/content/downloads/39/60/002-23774-A_KNETE2LDIN/4ll6ahj3st7jhqfzzjt1bjp1nhwl4p4zx7/UpdateBrain.zip"
         }
       ],
-      "PostDate": "2021-10-25T17:23:38Z",
-      "State": "ramped"
+      "PostDate": "2021-11-29T19:01:40Z"
+    },
+    "002-24697": {
+      "Distributions": {
+        "English": "https://swdist.apple.com/content/downloads/31/43/002-24697-A_BZTWMHMKQG/05x9gqbrv4tqxoj83i9x6b8sjhwb0pn8g3/002-24697.English.dist"
+      },
+      "Packages": [
+        {
+          "Digest": "cad2086b3f7f8cc8f8d8ba335af2569171277e9e",
+          "MetadataURL": "https://swdist.apple.com/content/downloads/31/43/002-24697-A_BZTWMHMKQG/05x9gqbrv4tqxoj83i9x6b8sjhwb0pn8g3/EFIAllowListAll.pkm",
+          "Size": 86252132,
+          "URL": "http://swcdn.apple.com/content/downloads/31/43/002-24697-A_BZTWMHMKQG/05x9gqbrv4tqxoj83i9x6b8sjhwb0pn8g3/EFIAllowListAll.pkg"
+        }
+      ],
+      "PostDate": "2021-11-29T18:58:33Z",
+      "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/31/43/002-24697-A_BZTWMHMKQG/05x9gqbrv4tqxoj83i9x6b8sjhwb0pn8g3/EFIAllowListAll.smd"
     },
     "002-30508": {
       "Distributions": {
@@ -54032,21 +54046,6 @@
       ],
       "PostDate": "2021-08-20T20:15:40Z",
       "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/33/28/071-44390-A_IQ4DD9ZA9P/xzbo7vu5wumlpv5fx2ccb8gdg28tqtllz0/SecUpd2021-005Mojave.smd"
-    },
-    "071-67575": {
-      "Distributions": {
-        "English": "https://swdist.apple.com/content/downloads/47/28/071-67575-A_WCK07K3EEE/0f3wj7b7cdd3ui4rdr9wm4f73bbgsiyjxb/071-67575.English.dist"
-      },
-      "Packages": [
-        {
-          "Digest": "f4e377ab6a61b5a77eee600e22ebfd9b1637e3b2",
-          "MetadataURL": "https://swdist.apple.com/content/downloads/47/28/071-67575-A_WCK07K3EEE/0f3wj7b7cdd3ui4rdr9wm4f73bbgsiyjxb/EFIAllowListAll.pkm",
-          "Size": 85965352,
-          "URL": "http://swcdn.apple.com/content/downloads/47/28/071-67575-A_WCK07K3EEE/0f3wj7b7cdd3ui4rdr9wm4f73bbgsiyjxb/EFIAllowListAll.pkg"
-        }
-      ],
-      "PostDate": "2021-10-13T21:38:55Z",
-      "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/47/28/071-67575-A_WCK07K3EEE/0f3wj7b7cdd3ui4rdr9wm4f73bbgsiyjxb/EFIAllowListAll.smd"
     },
     "071-71346": {
       "Distributions": {
