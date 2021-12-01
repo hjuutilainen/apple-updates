@@ -1,7 +1,7 @@
 {
   "ApplePostURL": "",
   "CatalogVersion": 2,
-  "IndexDate": "2021-11-29T19:07:21Z",
+  "IndexDate": "2021-12-01T21:48:11Z",
   "Products": {
     "001-04272": {
       "Distributions": {
@@ -1280,6 +1280,7 @@
       "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/56/15/002-16272-A_GR3NQ7PR44/veutih6eonvo1ifnszj8xvor6pzm4uwnbl/SFSymbolsAuto.smd"
     },
     "002-23774": {
+      "DeferredSUEnablementDate": "2021-10-25T07:00:00Z",
       "Distributions": {
         "English": "https://swdist.apple.com/content/downloads/39/60/002-23774-A_KNETE2LDIN/4ll6ahj3st7jhqfzzjt1bjp1nhwl4p4zx7/002-23774.English.dist"
       },
@@ -1334,7 +1335,7 @@
           "URL": "http://swcdn.apple.com/content/downloads/39/60/002-23774-A_KNETE2LDIN/4ll6ahj3st7jhqfzzjt1bjp1nhwl4p4zx7/UpdateBrain.zip"
         }
       ],
-      "PostDate": "2021-11-29T19:01:40Z"
+      "PostDate": "2021-12-01T21:42:57Z"
     },
     "002-24697": {
       "Distributions": {
