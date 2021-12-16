@@ -1,7 +1,7 @@
 {
   "ApplePostURL": "",
   "CatalogVersion": 2,
-  "IndexDate": "2021-12-14T21:51:21Z",
+  "IndexDate": "2021-12-16T19:27:27Z",
   "Products": {
     "001-04272": {
       "Distributions": {
@@ -1204,6 +1204,21 @@
       ],
       "PostDate": "2021-10-18T22:02:12Z",
       "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/59/62/002-03843-A_5WJL4UBJM0/0o8ul12oydug77z9caya9stdu28iu31rw2/MobileDeviceOnDemand.smd"
+    },
+    "002-08996": {
+      "Distributions": {
+        "English": "https://swdist.apple.com/content/downloads/19/06/002-08996-A_J3FTUGPFR4/o422ujfup207cfa9g4z1ze7184h4yt3ulz/002-08996.English.dist"
+      },
+      "Packages": [
+        {
+          "Digest": "b0800f8a074b49405d0c63e3dd13c4b612bcd89f",
+          "MetadataURL": "https://swdist.apple.com/content/downloads/19/06/002-08996-A_J3FTUGPFR4/o422ujfup207cfa9g4z1ze7184h4yt3ulz/XProtectPlistConfigData_10_14.pkm",
+          "Size": 969243,
+          "URL": "http://swcdn.apple.com/content/downloads/19/06/002-08996-A_J3FTUGPFR4/o422ujfup207cfa9g4z1ze7184h4yt3ulz/XProtectPlistConfigData_10_14.pkg"
+        }
+      ],
+      "PostDate": "2021-12-16T19:25:23Z",
+      "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/19/06/002-08996-A_J3FTUGPFR4/o422ujfup207cfa9g4z1ze7184h4yt3ulz/XProtectPlistConfigData_10_14.smd"
     },
     "002-15367": {
       "Distributions": {
