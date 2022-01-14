@@ -1,7 +1,7 @@
 {
   "ApplePostURL": "",
   "CatalogVersion": 2,
-  "IndexDate": "2022-01-14T18:44:02Z",
+  "IndexDate": "2022-01-14T22:22:23Z",
   "Products": {
     "001-04272": {
       "Distributions": {
@@ -1308,6 +1308,21 @@
       ],
       "PostDate": "2022-01-11T18:29:37Z",
       "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/11/61/002-37281-A_MBFD4LBJZH/pp3k1micimzlpnqk66zxzsdrowjzv5kigl/EFIAllowListAll.smd"
+    },
+    "002-39969": {
+      "Distributions": {
+        "English": "https://swdist.apple.com/content/downloads/09/63/002-39969-A_I0LK3CD1N9/zx51auwggwojn64d6qkr17itjgfgzdflb8/002-39969.English.dist"
+      },
+      "Packages": [
+        {
+          "Digest": "91c8d64e51e1c8d1349fb21c647674aee52c5105",
+          "MetadataURL": "https://swdist.apple.com/content/downloads/09/63/002-39969-A_I0LK3CD1N9/zx51auwggwojn64d6qkr17itjgfgzdflb8/macOSInstallerNotification_GM.pkm",
+          "Size": 1303377,
+          "URL": "http://swcdn.apple.com/content/downloads/09/63/002-39969-A_I0LK3CD1N9/zx51auwggwojn64d6qkr17itjgfgzdflb8/macOSInstallerNotification_GM.pkg"
+        }
+      ],
+      "PostDate": "2022-01-14T22:12:25Z",
+      "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/09/63/002-39969-A_I0LK3CD1N9/zx51auwggwojn64d6qkr17itjgfgzdflb8/macOSInstallerNotification_GM.smd"
     },
     "002-42435": {
       "DeferredSUEnablementDate": "2021-12-13T08:00:00Z",
@@ -32598,21 +32613,6 @@
       ],
       "PostDate": "2019-10-13T02:46:14Z",
       "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/08/45/041-88744-A_I61XA46G2J/5lst69gfneofi3k5pj9febbc2rakq3nzxv/Brother_PrinterSupport.smd"
-    },
-    "041-88745": {
-      "Distributions": {
-        "English": "https://swdist.apple.com/content/downloads/56/29/041-88745-A_LX79Z7FCUK/3pbtpz5i7k85pnmkn5o3snp1rhl25b0ft1/041-88745.English.dist"
-      },
-      "Packages": [
-        {
-          "Digest": "81f66bd522eea4a27841331513dc7492d935068a",
-          "MetadataURL": "https://swdist.apple.com/content/downloads/56/29/041-88745-A_LX79Z7FCUK/3pbtpz5i7k85pnmkn5o3snp1rhl25b0ft1/macOSInstallerNotification_GM.pkm",
-          "Size": 1832227,
-          "URL": "http://swcdn.apple.com/content/downloads/56/29/041-88745-A_LX79Z7FCUK/3pbtpz5i7k85pnmkn5o3snp1rhl25b0ft1/macOSInstallerNotification_GM.pkg"
-        }
-      ],
-      "PostDate": "2019-10-22T22:46:01Z",
-      "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/56/29/041-88745-A_LX79Z7FCUK/3pbtpz5i7k85pnmkn5o3snp1rhl25b0ft1/macOSInstallerNotification_GM.smd"
     },
     "041-88748": {
       "Distributions": {
