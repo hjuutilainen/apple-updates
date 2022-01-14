@@ -1,7 +1,7 @@
 {
   "ApplePostURL": "",
   "CatalogVersion": 2,
-  "IndexDate": "2022-01-14T17:40:34Z",
+  "IndexDate": "2022-01-14T18:44:02Z",
   "Products": {
     "001-04272": {
       "Distributions": {
@@ -1310,6 +1310,7 @@
       "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/11/61/002-37281-A_MBFD4LBJZH/pp3k1micimzlpnqk66zxzsdrowjzv5kigl/EFIAllowListAll.smd"
     },
     "002-42435": {
+      "DeferredSUEnablementDate": "2021-12-13T08:00:00Z",
       "Distributions": {
         "English": "https://swdist.apple.com/content/downloads/06/34/002-42435-A_MA7OBDUK86/6xzypeod1xebasc92qkw2iv44e1j9pv09f/002-42435.English.dist"
       },
@@ -1364,8 +1365,7 @@
           "URL": "http://swcdn.apple.com/content/downloads/06/34/002-42435-A_MA7OBDUK86/6xzypeod1xebasc92qkw2iv44e1j9pv09f/UpdateBrain.zip"
         }
       ],
-      "PostDate": "2021-12-13T18:06:42Z",
-      "State": "ramped"
+      "PostDate": "2022-01-14T18:42:59Z"
     },
     "002-42444": {
       "Distributions": {
