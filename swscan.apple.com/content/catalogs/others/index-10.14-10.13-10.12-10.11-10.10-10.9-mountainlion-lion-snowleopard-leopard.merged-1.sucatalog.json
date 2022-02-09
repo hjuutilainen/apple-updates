@@ -1,7 +1,7 @@
 {
   "ApplePostURL": "",
   "CatalogVersion": 2,
-  "IndexDate": "2022-02-08T17:42:50Z",
+  "IndexDate": "2022-02-09T00:25:12Z",
   "Products": {
     "001-04272": {
       "Distributions": {
@@ -10432,23 +10432,6 @@
       ],
       "PostDate": "2019-10-22T19:52:05Z",
       "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/25/57/041-85065-A_XVLD1PISVU/ldvmxoiqtiu2slvpgyic5wlmixxjaim052/MainStage2.1.3Update.smd"
-    },
-    "041-85067": {
-      "Distributions": {
-        "English": "https://swdist.apple.com/content/downloads/13/61/041-85067-A_X9V2CBFTYW/x83xeh8vmsvgc5hrnsw86b8hsbr8l11buv/FCPContent.dst/041-85067.English.dist",
-        "French": "https://swdist.apple.com/content/downloads/13/61/041-85067-A_X9V2CBFTYW/x83xeh8vmsvgc5hrnsw86b8hsbr8l11buv/FCPContent.dst/041-85067.French.dist",
-        "German": "https://swdist.apple.com/content/downloads/13/61/041-85067-A_X9V2CBFTYW/x83xeh8vmsvgc5hrnsw86b8hsbr8l11buv/FCPContent.dst/041-85067.German.dist",
-        "Japanese": "https://swdist.apple.com/content/downloads/13/61/041-85067-A_X9V2CBFTYW/x83xeh8vmsvgc5hrnsw86b8hsbr8l11buv/FCPContent.dst/041-85067.Japanese.dist"
-      },
-      "Packages": [
-        {
-          "MetadataURL": "https://swdist.apple.com/content/downloads/13/61/041-85067-A_X9V2CBFTYW/x83xeh8vmsvgc5hrnsw86b8hsbr8l11buv/FCPContent.pkm",
-          "Size": 637182174,
-          "URL": "http://swcdn.apple.com/content/downloads/13/61/041-85067-A_X9V2CBFTYW/x83xeh8vmsvgc5hrnsw86b8hsbr8l11buv/FCPContent.pkg"
-        }
-      ],
-      "PostDate": "2019-10-17T03:11:10Z",
-      "ServerMetadataURL": "http://swcdn.apple.com/content/downloads/13/61/041-85067-A_X9V2CBFTYW/x83xeh8vmsvgc5hrnsw86b8hsbr8l11buv/FCPContent.smd"
     },
     "041-85095": {
       "Distributions": {
